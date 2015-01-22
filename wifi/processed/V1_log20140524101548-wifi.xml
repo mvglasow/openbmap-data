@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logfile manufacturer="Samsung" model="Nexus S" revision="4.3.1" swid="Radiobeacon" swver="0.7.9" exportver="0.7.9" >
+<scan time="20140524101548" >
+	<gps time="20140524101548" lng="7.329863098446582" lat="48.08684467779558" alt="253.0" hdg="107.91976928710938" spe="14.272638320922852" accuracy="10.0" />
+		<wifiap bssid="420225b3ba39" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-86" ntiu="2427"/>
+		<wifiap bssid="ba36aac2a310" md5essid="d4f5ae6883c3d5fe23fbbfecbc18842" ssid="freeboxkok" capa="[WPA-PSK-CCMP+TKIP][ESS]" ss="-91" ntiu="2472"/>
+		<wifiap bssid="80c6ab48b985" md5essid="48a0907f7baad0bd5fd0f1d9b2dbc356" ssid="thom_d0047787" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2462"/>
+		<wifiap bssid="420225b3ba3a" md5essid="7e64e8d31508c39b671b9de0e998" ssid="freewifi_secure" capa="[WPA-EAP-CCMP][ESS]" ss="-84" ntiu="2427"/>
+		<wifiap bssid="f4cae59f7574" md5essid="b915b3f8d7c389c9ddc4fcbb179b2" ssid="freebox_yousra" capa="[WPA-PSK-CCMP+TKIP][ESS]" ss="-91" ntiu="2442"/>
+		<wifiap bssid="f4cae59f7576" md5essid="7e64e8d31508c39b671b9de0e998" ssid="freewifi_secure" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-85" ntiu="2442"/>
+		<wifiap bssid="001733e74e14" md5essid="556e2ac6c31419ddf9363448754a5" ssid="neuf_4e10" capa="[WPA-PSK-CCMP+TKIP][WPS][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="8a1733e74e17" md5essid="59e2d8a7d1cbcb1cf7795b818c31e0d6" ssid="sfr wifi mobile" capa="[WPA2-EAP-CCMP][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="c0ac541c4ba3" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA2-EAP-CCMP][ESS]" ss="-94" ntiu="2412"/>
+		<wifiap bssid="c0ac541c4ba0" md5essid="a1b61f98e262c9617295c28ee7cdcd0" ssid="bbox-a749558e" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-95" ntiu="2412"/>
+		<wifiap bssid="8a1733e74e15" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="c0ac541c4ba1" md5essid="94f9c81052bcd3fe49a0d8d97da30e8" ssid="bouygues telecom wi-fi" capa="[ESS]" ss="-95" ntiu="2412"/>
+		<wifiap bssid="c0ac541c4ba2" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[ESS]" ss="-97" ntiu="2412"/>
+		<wifiap bssid="f4cae5fc6700" md5essid="ce3cd0df5fbbdf8768f6f1cd543bce72" ssid="kayser" capa="[WPA-PSK-CCMP+TKIP][ESS]" ss="-86" ntiu="2432"/>
+		<wifiap bssid="d2a1d70112e3" md5essid="59e2d8a7d1cbcb1cf7795b818c31e0d6" ssid="sfr wifi mobile" capa="[WPA2-EAP-CCMP][ESS]" ss="-96" ntiu="2462"/>
+		<wifiap bssid="f4cae5fc6701" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-87" ntiu="2432"/>
+		<wifiap bssid="d2a1d70112e1" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-90" ntiu="2462"/>
+		<wifiap bssid="f4cae59f7575" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-95" ntiu="2442"/>
+		<wifiap bssid="7a043269250f" md5essid="7e64e8d31508c39b671b9de0e998" ssid="freewifi_secure" capa="[WPA-EAP-CCMP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="7a043269250d" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA2-PSK-CCMP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="4a1abdd933da" md5essid="7e64e8d31508c39b671b9de0e998" ssid="freewifi_secure" capa="[WPA-EAP-CCMP][ESS]" ss="-83" ntiu="2422"/>
+		<wifiap bssid="4a1abdd933d8" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA2-PSK-CCMP][ESS]" ss="-85" ntiu="2422"/>
+		<wifiap bssid="e0a1d7376bcc" md5essid="ee80c0de85f7cdb818c0c133abbf79e0" ssid="sfr_6bc8" capa="[WPA-PSK-CCMP+TKIP][WPS][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="aaa1d7376bcf" md5essid="59e2d8a7d1cbcb1cf7795b818c31e0d6" ssid="sfr wifi mobile" capa="[WPA2-EAP-CCMP][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="7a043269250c" md5essid="4d2fbdd510aa14d81298379583a05b4a" ssid="freebox_rbxulo" capa="[WEP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="7a043269250e" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="4a1abdd933d9" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-83" ntiu="2422"/>
+		<wifiap bssid="aaa1d7376bcd" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-89" ntiu="2437"/>
+	<gps time="20140524101548" lng="7.329863098446582" lat="48.08684467779558" alt="253.0" hdg="107.91976928710938" spe="14.272638320922852" accuracy="10.0" />
+</scan>
+<scan time="20140524101552" >
+	<gps time="20140524101552" lng="7.33059689377955" lat="48.086674326824976" alt="252.0" hdg="108.9915771484375" spe="14.341516494750977" accuracy="5.0" />
+		<wifiap bssid="e0469a7c86f6" md5essid="f1dbcae2ca742d7221bd52a82cee717e" ssid="wifi-fpj" capa="[WPA-PSK-TKIP][WPS][ESS]" ss="-88" ntiu="2412"/>
+		<wifiap bssid="80c6ab48b985" md5essid="48a0907f7baad0bd5fd0f1d9b2dbc356" ssid="thom_d0047787" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2462"/>
+		<wifiap bssid="f4cae59f7574" md5essid="b915b3f8d7c389c9ddc4fcbb179b2" ssid="freebox_yousra" capa="[WPA-PSK-CCMP+TKIP][ESS]" ss="-91" ntiu="2442"/>
+		<wifiap bssid="c0ac541c4ba3" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA2-EAP-CCMP][ESS]" ss="-95" ntiu="2412"/>
+		<wifiap bssid="c0ac541c4ba2" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[ESS]" ss="-94" ntiu="2412"/>
+		<wifiap bssid="f4cae5fc6700" md5essid="ce3cd0df5fbbdf8768f6f1cd543bce72" ssid="kayser" capa="[WPA-PSK-CCMP+TKIP][ESS]" ss="-86" ntiu="2432"/>
+		<wifiap bssid="d2a1d70112e3" md5essid="59e2d8a7d1cbcb1cf7795b818c31e0d6" ssid="sfr wifi mobile" capa="[WPA2-EAP-CCMP][ESS]" ss="-96" ntiu="2462"/>
+		<wifiap bssid="f4cae5fc6701" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-87" ntiu="2432"/>
+		<wifiap bssid="d2a1d70112e1" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-90" ntiu="2462"/>
+		<wifiap bssid="f4cae59f7575" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-95" ntiu="2442"/>
+		<wifiap bssid="7a043269250f" md5essid="7e64e8d31508c39b671b9de0e998" ssid="freewifi_secure" capa="[WPA-EAP-CCMP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="7a043269250d" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA2-PSK-CCMP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="4a1abdd933da" md5essid="7e64e8d31508c39b671b9de0e998" ssid="freewifi_secure" capa="[WPA-EAP-CCMP][ESS]" ss="-83" ntiu="2422"/>
+		<wifiap bssid="4a1abdd933d8" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA2-PSK-CCMP][ESS]" ss="-85" ntiu="2422"/>
+		<wifiap bssid="e0a1d7376bcc" md5essid="ee80c0de85f7cdb818c0c133abbf79e0" ssid="sfr_6bc8" capa="[WPA-PSK-CCMP+TKIP][WPS][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="aaa1d7376bcf" md5essid="59e2d8a7d1cbcb1cf7795b818c31e0d6" ssid="sfr wifi mobile" capa="[WPA2-EAP-CCMP][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="7a043269250c" md5essid="4d2fbdd510aa14d81298379583a05b4a" ssid="freebox_rbxulo" capa="[WEP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="7a043269250e" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="4a1abdd933d9" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-83" ntiu="2422"/>
+		<wifiap bssid="aaa1d7376bcd" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-89" ntiu="2437"/>
+		<wifiap bssid="0024d4c909c2" md5essid="7e64e8d31508c39b671b9de0e998" ssid="freewifi_secure" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-83" ntiu="2452"/>
+		<wifiap bssid="0024d4c909c0" md5essid="ce855b52d38c8f9c5030f020a448bdb" ssid="freebox-ppbo" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2452"/>
+		<wifiap bssid="001d6a51f939" md5essid="d6592e7edbd1a87bbde270ae698c7e0" ssid="livebox-1c9c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="0024d4c909c1" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-84" ntiu="2452"/>
+	<gps time="20140524101552" lng="7.33059689377955" lat="48.086674326824976" alt="252.0" hdg="108.9915771484375" spe="14.341516494750977" accuracy="5.0" />
+</scan>
+<scan time="20140524101555" >
+	<gps time="20140524101555" lng="7.331134236817946" lat="48.08655707223509" alt="253.0" hdg="106.86466217041016" spe="13.870890617370605" accuracy="5.0" />
+		<wifiap bssid="c0ac541c4ba3" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA2-EAP-CCMP][ESS]" ss="-95" ntiu="2412"/>
+		<wifiap bssid="c0ac541c4ba2" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[ESS]" ss="-94" ntiu="2412"/>
+		<wifiap bssid="0024d4c909c2" md5essid="7e64e8d31508c39b671b9de0e998" ssid="freewifi_secure" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-83" ntiu="2452"/>
+		<wifiap bssid="0024d4c909c0" md5essid="ce855b52d38c8f9c5030f020a448bdb" ssid="freebox-ppbo" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2452"/>
+		<wifiap bssid="001d6a51f939" md5essid="d6592e7edbd1a87bbde270ae698c7e0" ssid="livebox-1c9c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="0024d4c909c1" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-84" ntiu="2452"/>
+		<wifiap bssid="c03f0e10b430" md5essid="332532dcfaa1cbf61e2a266bd723612c" ssid="sam" capa="[WPA-PSK-TKIP][ESS]" ss="-81" ntiu="2437"/>
+		<wifiap bssid="0024d4cdae24" md5essid="c4bc573d6343c19e51b21a5b6a1972e" ssid="mercan" capa="[WPA-PSK-CCMP][ESS]" ss="-94" ntiu="2447"/>
+		<wifiap bssid="82a1d70e41f5" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-95" ntiu="2437"/>
+	<gps time="20140524101555" lng="7.331134236817946" lat="48.08655707223509" alt="253.0" hdg="106.86466217041016" spe="13.870890617370605" accuracy="5.0" />
+</scan>
+<scan time="20140524101556" >
+	<gps time="20140524101556" lng="7.331313542151655" lat="48.08652358333826" alt="253.0" hdg="106.09976959228516" spe="13.820347785949707" accuracy="5.0" />
+		<wifiap bssid="c0ac541c4ba3" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA2-EAP-CCMP][ESS]" ss="-95" ntiu="2412"/>
+		<wifiap bssid="c0ac541c4ba2" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[ESS]" ss="-94" ntiu="2412"/>
+		<wifiap bssid="0024d4c909c2" md5essid="7e64e8d31508c39b671b9de0e998" ssid="freewifi_secure" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-83" ntiu="2452"/>
+		<wifiap bssid="0024d4c909c0" md5essid="ce855b52d38c8f9c5030f020a448bdb" ssid="freebox-ppbo" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2452"/>
+		<wifiap bssid="001d6a51f939" md5essid="d6592e7edbd1a87bbde270ae698c7e0" ssid="livebox-1c9c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="0024d4c909c1" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-84" ntiu="2452"/>
+		<wifiap bssid="c03f0e10b430" md5essid="332532dcfaa1cbf61e2a266bd723612c" ssid="sam" capa="[WPA-PSK-TKIP][ESS]" ss="-91" ntiu="2437"/>
+		<wifiap bssid="0024d4cdae24" md5essid="c4bc573d6343c19e51b21a5b6a1972e" ssid="mercan" capa="[WPA-PSK-CCMP][ESS]" ss="-94" ntiu="2447"/>
+		<wifiap bssid="82a1d70e41f5" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-95" ntiu="2437"/>
+		<wifiap bssid="0024d183784c" md5essid="77e4b2f1841fa679bebe72db7e2b5920" ssid="thom_d016967" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-84" ntiu="2437"/>
+		<wifiap bssid="a27ecb955f47" md5essid="59e2d8a7d1cbcb1cf7795b818c31e0d6" ssid="sfr wifi mobile" capa="[WPA2-EAP-CCMP][ESS]" ss="-89" ntiu="2412"/>
+		<wifiap bssid="307ecb955f44" md5essid="e6b2505d2b60818f4d2f5f73de8c68dd" ssid="sfr_5f40" capa="[WPA-PSK-CCMP+TKIP][WPS][ESS]" ss="-90" ntiu="2412"/>
+		<wifiap bssid="a27ecb955f45" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-90" ntiu="2412"/>
+		<wifiap bssid="f4cae5ffd771" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-94" ntiu="2417"/>
+	<gps time="20140524101556" lng="7.331313542151655" lat="48.08652358333826" alt="253.0" hdg="106.09976959228516" spe="13.820347785949707" accuracy="5.0" />
+</scan>
+<scan time="20140524101558" >
+	<gps time="20140524101558" lng="7.331684596926501" lat="48.08645837443894" alt="252.0" hdg="106.02962493896484" spe="14.327577590942383" accuracy="5.0" />
+		<wifiap bssid="c03f0e10b430" md5essid="332532dcfaa1cbf61e2a266bd723612c" ssid="sam" capa="[WPA-PSK-TKIP][ESS]" ss="-90" ntiu="2437"/>
+		<wifiap bssid="0024d4cdae24" md5essid="c4bc573d6343c19e51b21a5b6a1972e" ssid="mercan" capa="[WPA-PSK-CCMP][ESS]" ss="-94" ntiu="2447"/>
+		<wifiap bssid="82a1d70e41f5" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-95" ntiu="2437"/>
+		<wifiap bssid="0024d183784c" md5essid="77e4b2f1841fa679bebe72db7e2b5920" ssid="thom_d016967" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-84" ntiu="2437"/>
+		<wifiap bssid="a27ecb955f47" md5essid="59e2d8a7d1cbcb1cf7795b818c31e0d6" ssid="sfr wifi mobile" capa="[WPA2-EAP-CCMP][ESS]" ss="-89" ntiu="2412"/>
+		<wifiap bssid="307ecb955f44" md5essid="e6b2505d2b60818f4d2f5f73de8c68dd" ssid="sfr_5f40" capa="[WPA-PSK-CCMP+TKIP][WPS][ESS]" ss="-90" ntiu="2412"/>
+		<wifiap bssid="a27ecb955f45" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-90" ntiu="2412"/>
+		<wifiap bssid="f4cae5ffd771" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-94" ntiu="2417"/>
+		<wifiap bssid="80c6ab3bebd2" md5essid="1c28f4c084352c3a517747c755c18234" ssid="thom_d0047343" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-88" ntiu="2437"/>
+		<wifiap bssid="b21733da5e2b" md5essid="59e2d8a7d1cbcb1cf7795b818c31e0d6" ssid="sfr wifi mobile" capa="[WPA2-EAP-CCMP][ESS]" ss="-89" ntiu="2462"/>
+		<wifiap bssid="001733da5e28" md5essid="f571e963de1bea32618f324f7e65365" ssid="neuf_5e24" capa="[WPA-PSK-CCMP+TKIP][WPS][ESS]" ss="-90" ntiu="2462"/>
+		<wifiap bssid="00789e8a8ff2" md5essid="c5b54cab6068fd792088f79afcdf2" ssid="livebox-8ff2" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-91" ntiu="2412"/>
+		<wifiap bssid="f4cae5f9f230" md5essid="32cc7ea5fa3da7b6b3aa3f4d6932825" ssid="freebox-4346d8" capa="[WPA-PSK-CCMP][ESS]" ss="-94" ntiu="2437"/>
+		<wifiap bssid="56a180620428" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA2-PSK-CCMP][ESS]" ss="-96" ntiu="2447"/>
+		<wifiap bssid="b21733da5e29" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-87" ntiu="2462"/>
+	<gps time="20140524101558" lng="7.331684596926501" lat="48.08645837443894" alt="252.0" hdg="106.02962493896484" spe="14.327577590942383" accuracy="5.0" />
+</scan>
+<scan time="20140524101559" >
+	<gps time="20140524101559" lng="7.331876992628537" lat="48.0864240800673" alt="251.0" hdg="105.50550842285156" spe="14.693075180053711" accuracy="5.0" />
+		<wifiap bssid="c03f0e10b430" md5essid="332532dcfaa1cbf61e2a266bd723612c" ssid="sam" capa="[WPA-PSK-TKIP][ESS]" ss="-90" ntiu="2437"/>
+		<wifiap bssid="0024d4cdae24" md5essid="c4bc573d6343c19e51b21a5b6a1972e" ssid="mercan" capa="[WPA-PSK-CCMP][ESS]" ss="-94" ntiu="2447"/>
+		<wifiap bssid="82a1d70e41f5" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-95" ntiu="2437"/>
+		<wifiap bssid="0024d183784c" md5essid="77e4b2f1841fa679bebe72db7e2b5920" ssid="thom_d016967" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-84" ntiu="2437"/>
+		<wifiap bssid="a27ecb955f47" md5essid="59e2d8a7d1cbcb1cf7795b818c31e0d6" ssid="sfr wifi mobile" capa="[WPA2-EAP-CCMP][ESS]" ss="-89" ntiu="2412"/>
+		<wifiap bssid="307ecb955f44" md5essid="e6b2505d2b60818f4d2f5f73de8c68dd" ssid="sfr_5f40" capa="[WPA-PSK-CCMP+TKIP][WPS][ESS]" ss="-90" ntiu="2412"/>
+		<wifiap bssid="a27ecb955f45" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-90" ntiu="2412"/>
+		<wifiap bssid="f4cae5ffd771" md5essid="7de5a7d447d41473b51a7f23af5f15" ssid="freewifi" capa="[ESS]" ss="-86" ntiu="2417"/>
+		<wifiap bssid="80c6ab3bebd2" md5essid="1c28f4c084352c3a517747c755c18234" ssid="thom_d0047343" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-88" ntiu="2437"/>
+		<wifiap bssid="b21733da5e2b" md5essid="59e2d8a7d1cbcb1cf7795b818c31e0d6" ssid="sfr wifi mobile" capa="[WPA2-EAP-CCMP][ESS]" ss="-89" ntiu="2462"/>
+	<gps time="20140524101559" lng="7.331876992628537" lat="48.0864240800673" alt="251.0" hdg="105.50550842285156" spe="14.693075180053711" accuracy="5.0" />
+</scan>
+</logfile>

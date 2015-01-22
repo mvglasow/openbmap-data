@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logfile manufacturer="OnePlus" model="A0001" revision="4.4.4" swid="Radiobeacon" swver="0.8.3" exportver="0.8.3">
+<scan time="20141116104724">
+	<gps time="20141116104724" lng="11.51657331" lat="48.12949397" alt="583.0" hdg="45.599998474121094" spe="5.025266170501709" accuracy="4.0" type="begin" />
+		<wifiap bssid="3431c41ac316" md5essid="cd59fc728251c79fe8dcea4630952d92" ssid="turbine" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2412"/>
+		<wifiap bssid="d850e6a9b0c0" md5essid="3db3ce9a8b6f1917cd2c1d03d46ba2" ssid="luftinternet" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="849ca65d0e3a" md5essid="8d476331bf5e14933a55f1ec12ee7e" ssid="fbi-surveillancevan7" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-88" ntiu="2427"/>
+		<wifiap bssid="84a8e4d9b762" md5essid="b480385e6390c01423bfc0cb9f04e43" ssid="wlan-b76247" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-91" ntiu="2447"/>
+	<gps time="20141116104724" lng="11.51657331" lat="48.12949397" alt="583.0" hdg="45.599998474121094" spe="5.025266170501709" accuracy="4.0" type="end" />
+</scan>
+<scan time="20141116104728">
+	<gps time="20141116104728" lng="11.51673627" lat="48.12960764" alt="583.0" hdg="50.29999923706055" spe="4.770848751068115" accuracy="4.0" type="begin" />
+		<wifiap bssid="0896d7be7b14" md5essid="1b83f1c21ed6611bf871cf68f1de8f" ssid="fritz!box 7490" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-78" ntiu="2412"/>
+		<wifiap bssid="c0c1c020b8ff" md5essid="3bc26ecc4082b3443eb04329e97a7abb" ssid="cisco30729" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2437"/>
+	<gps time="20141116104728" lng="11.51673627" lat="48.12960764" alt="583.0" hdg="50.29999923706055" spe="4.770848751068115" accuracy="4.0" type="end" />
+</scan>
+</logfile>

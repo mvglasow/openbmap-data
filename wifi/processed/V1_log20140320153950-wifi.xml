@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logfile manufacturer="Samsung" model="Nexus S" revision="4.3.1" swid="Radiobeacon" swver="0.7.9" exportver="0.8.4">
+<scan time="20140320153950">
+	<gps time="20140320153950" lng="6.574680366396693" lat="45.39492006182098" alt="1727.0" hdg="355.7232360839844" spe="6.961567401885986" accuracy="10.0" type="begin" />
+		<wifiap bssid="aa2515adb319" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-91" ntiu="2422"/>
+		<wifiap bssid="dc9fdb08b076" md5essid="2f3e7d868f856d4630a0f328aaa53" ssid="internet-ici meribel m24" capa="[ESS]" ss="-94" ntiu="2442"/>
+		<wifiap bssid="92251534509f" md5essid="59e2d8a7d1cbcb1cf7795b818c31e0d6" ssid="sfr wifi mobile" capa="[WPA2-EAP-CCMP][ESS]" ss="-93" ntiu="2462"/>
+		<wifiap bssid="92251534509d" md5essid="28dea2127293b04a669f9f4bf9d85774" ssid="sfr wifi fon" capa="[ESS]" ss="-93" ntiu="2462"/>
+	<gps time="20140320153950" lng="6.574680366396693" lat="45.39492006182098" alt="1727.0" hdg="355.7232360839844" spe="6.961567401885986" accuracy="10.0" type="end" />
+</scan>
+<scan time="20140320153951">
+	<gps time="20140320153951" lng="6.5746306311541325" lat="45.394977000772506" alt="1725.0" hdg="326.70452880859375" spe="6.994054317474365" accuracy="10.0" type="begin" />
+		<wifiap bssid="28940f747d8a" md5essid="3d2345d17658b823a13cb11e3f89" ssid="yeti-wifi" capa="[ESS]" ss="-93" ntiu="2412"/>
+		<wifiap bssid="aa2515adb31b" md5essid="59e2d8a7d1cbcb1cf7795b818c31e0d6" ssid="sfr wifi mobile" capa="[WPA2-EAP-CCMP][ESS]" ss="-90" ntiu="2422"/>
+	<gps time="20140320153951" lng="6.5746306311541325" lat="45.394977000772506" alt="1725.0" hdg="326.70452880859375" spe="6.994054317474365" accuracy="10.0" type="end" />
+</scan>
+</logfile>

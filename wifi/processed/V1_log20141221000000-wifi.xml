@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logfile manufacturer="OnePlus" model="A0001" revision="4.4.4" swid="Radiobeacon" swver="0.8.4" exportver="0.8.4">
+<scan time="20141221000000">
+	<gps time="20141221000000" lng="11.39479004" lat="48.17475438" alt="557.0" hdg="195.5" spe="3.770052909851074" accuracy="3.0" type="begin" />
+		<wifiap bssid="04353b6a9c01" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-88" ntiu="2437"/>
+		<wifiap bssid="9c80df39b42a" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA2-PSK-CCMP][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="c404155ea040" md5essid="e969c6d670ba98c0df616342e89ecbd" ssid="pingpong_ext" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-91" ntiu="2462"/>
+		<wifiap bssid="e0469a0ac4c6" md5essid="cd3c3621a18bef2bcb2cc568833aa0a5" ssid="pingpong" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-89" ntiu="2462"/>
+		<wifiap bssid="9cc7a6a5d5f8" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-88" ntiu="2462"/>
+		<wifiap bssid="001c28d17d47" md5essid="424a17c66e6d51951ee62b583e41ec3c" ssid="o2-wlan09" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-89" ntiu="2462"/>
+	<gps time="20141221000000" lng="11.39479004" lat="48.17475438" alt="557.0" hdg="195.5" spe="3.770052909851074" accuracy="3.0" type="end" />
+</scan>
+</logfile>

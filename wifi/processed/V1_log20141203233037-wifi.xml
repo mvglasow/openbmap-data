@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logfile manufacturer="OnePlus" model="A0001" revision="4.4.4" swid="Radiobeacon" swver="0.8.3" exportver="0.8.3">
+<scan time="20141203233037">
+	<gps time="20141203233037" lng="11.50924228" lat="48.08167437" alt="606.0" hdg="322.5" spe="13.090034484863281" accuracy="8.0" type="begin" />
+		<wifiap bssid="9cc7a6ef39c2" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-90" ntiu="2462"/>
+		<wifiap bssid="02230825ad3c" md5essid="dfe12beb8f87668d41ea5715810c96e" ssid="easybox-muc" capa="[WPA2-PSK-CCMP-preauth][ESS]" ss="-88" ntiu="2457"/>
+		<wifiap bssid="c04a0042219c" md5essid="5e56432edb9e515169b22430fe70f6" ssid="bobolan" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-89" ntiu="2417"/>
+		<wifiap bssid="60e701b47f3f" md5essid="19671afd893d102869caa9ee36272f7" ssid="wlan-frehw5" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-90" ntiu="2412"/>
+		<wifiap bssid="001d191ee4fc" md5essid="8de11da4ef8d08392a2659c2a9e838c" ssid="arcor-1ee450" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][ESS]" ss="-92" ntiu="2452"/>
+	<gps time="20141203233037" lng="11.50924228" lat="48.08167437" alt="606.0" hdg="322.5" spe="13.090034484863281" accuracy="8.0" type="end" />
+</scan>
+<scan time="20141203233040">
+	<gps time="20141203233040" lng="11.50905531" lat="48.08179245" alt="608.0" hdg="317.6000061035156" spe="3.548126220703125" accuracy="6.0" type="begin" />
+		<wifiap bssid="0024fe464f2b" md5essid="d4829c119d114d466311ddb5dd54e4e" ssid="fritz!box wlan 3170" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-87" ntiu="2412"/>
+	<gps time="20141203233040" lng="11.50905531" lat="48.08179245" alt="608.0" hdg="317.6000061035156" spe="3.548126220703125" accuracy="6.0" type="end" />
+</scan>
+</logfile>

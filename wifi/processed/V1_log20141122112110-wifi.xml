@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logfile manufacturer="OnePlus" model="A0001" revision="4.4.4" swid="Radiobeacon" swver="0.8.3" exportver="0.8.3">
+<scan time="20141122112110">
+	<gps time="20141122112110" lng="11.45314693" lat="48.15111919" alt="575.0" hdg="282.3999938964844" spe="9.75" accuracy="3.0" type="begin" />
+		<wifiap bssid="7c4fb50b88f8" md5essid="34ebcc6efd7ce6efef498d119aa56be" ssid="alice-wlan25" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-89" ntiu="2417"/>
+		<wifiap bssid="6817298f16c8" md5essid="48e4a8622ecaee5af5dffeb118648a4" ssid="openwrt_2" capa="[WPA2-PSK-CCMP][ESS]" ss="-90" ntiu="2452"/>
+	<gps time="20141122112110" lng="11.45314693" lat="48.15111919" alt="575.0" hdg="282.3999938964844" spe="9.75" accuracy="3.0" type="end" />
+</scan>
+<scan time="20141122112115">
+	<gps time="20141122112115" lng="11.452655" lat="48.15115456" alt="576.0" hdg="257.70001220703125" spe="6.351771354675293" accuracy="3.0" type="begin" />
+		<wifiap bssid="3481c4271cce" md5essid="a55cb716efbe52fa80c2121bb8bd49b" ssid="hecosys" capa="[WPA2-PSK-CCMP][ESS]" ss="-90" ntiu="2452"/>
+		<wifiap bssid="001c28a1457f" md5essid="51fd655c4ef725ea6d6a7f9587d6fe3" ssid="o2-wlan26" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2427"/>
+		<wifiap bssid="001a2a437e09" md5essid="a98b159658cc4bce9a971876753b9a3" ssid="hypernet" capa="[WPA2-PSK-CCMP][ESS]" ss="-90" ntiu="2457"/>
+		<wifiap bssid="bc05438c10c7" md5essid="d9707081931adfb47ba07f971220e4e1" ssid="fritz!box wlan 3270" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2412"/>
+	<gps time="20141122112115" lng="11.452655" lat="48.15115456" alt="576.0" hdg="257.70001220703125" spe="6.351771354675293" accuracy="3.0" type="end" />
+</scan>
+</logfile>

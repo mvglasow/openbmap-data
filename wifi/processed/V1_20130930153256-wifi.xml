@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logfile manufacturer="Samsung" model="Nexus S" revision="4.2.2" swid="Radiobeacon" swver="0.7.5" exportver="0.7.5" >
+<scan time="20130930102300" >
+	<gps time="20130930102300" lng="11.601420687236025" lat="48.15151590160448" alt="575.0" hdg="210.9481201171875" spe="4.156640529632568" accuracy="20.0" />
+		<wifiap bssid="e0:69:95:c4:4f:3d" md5essid="81254d96c12be665b1b76fc448104368" ssid="62b200" capa="[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]" ss="-92" ntiu="2462"/>
+		<wifiap bssid="00:23:08:fc:68:05" md5essid="109fc0335531f72d654c8d1bbd9e2120" ssid="WLAN-FC6847" capa="[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]" ss="-96" ntiu="2412"/>
+	<gps time="20130930102300" lng="11.601420687236025" lat="48.15151590160448" alt="575.0" hdg="210.9481201171875" spe="4.156640529632568" accuracy="20.0" />
+</scan>
+<scan time="20130930102302" >
+	<gps time="20130930102302" lng="11.601387210619976" lat="48.15141779974575" alt="576.0" hdg="202.3632049560547" spe="2.428802013397217" accuracy="20.0" />
+		<wifiap bssid="00:23:08:fc:68:05" md5essid="109fc0335531f72d654c8d1bbd9e2120" ssid="WLAN-FC6847" capa="[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]" ss="-96" ntiu="2412"/>
+	<gps time="20130930102302" lng="11.601387210619976" lat="48.15141779974575" alt="576.0" hdg="202.3632049560547" spe="2.428802013397217" accuracy="20.0" />
+</scan>
+<scan time="20130930102336" >
+	<gps time="20130930102336" lng="11.601420101356602" lat="48.151324143975906" alt="568.0" hdg="202.3632049560547" spe="0.0" accuracy="15.0" />
+		<wifiap bssid="e0:69:95:c4:4f:3d" md5essid="81254d96c12be665b1b76fc448104368" ssid="62b200" capa="[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]" ss="-90" ntiu="2462"/>
+		<wifiap bssid="00:24:fe:f5:8b:b5" md5essid="9280eccca9299f99b3bffd23bdeb2796" ssid="FRITZ!Box Fon WLAN 7112" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2437"/>
+	<gps time="20130930102336" lng="11.601420101356602" lat="48.151324143975906" alt="568.0" hdg="202.3632049560547" spe="0.0" accuracy="15.0" />
+</scan>
+</logfile>

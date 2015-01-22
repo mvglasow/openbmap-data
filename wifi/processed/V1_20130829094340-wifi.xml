@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logfile manufacturer="Samsung" model="Nexus S" revision="4.2.2" swid="Radiobeacon" swver="00.6.00">
+<scan time="20130829094312" >
+	<gps time="20130829094312" lng="48.1499" lat="11.6003" alt="561" hdg="29.0355" spe="4.57862" accuracy="15" />
+		<wifiap bssid="00:25:45:35:49:91" md5essid="2da581c2ca9531dfba43f0f51b3a3a1e" ssid="APLLP_Guest" capa="[ESS]" ss="-92" ntiu="2437"/>
+		<wifiap bssid="88:25:2c:d0:d7:72" md5essid="87275307b91ac1e71f6c18e4a3a7d7d" ssid="WLAN-D0D746" capa="[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]" ss="-90" ntiu="2437"/>
+		<wifiap bssid="00:1a:4f:3b:3c:47" md5essid="45acfb94219413b1d818fe225ab87851" ssid="WLAN-Home" capa="[WPA-PSK-TKIP][ESS]" ss="-93" ntiu="2462"/>
+	<gps time="20130829094312" lng="48.1499" lat="11.6003" alt="561" hdg="29.0355" spe="4.57862" accuracy="15" />
+</scan>
+<scan time="20130829094314" >
+	<gps time="20130829094314" lng="48.15" lat="11.6004" alt="561" hdg="75.6723" spe="2.29571" accuracy="15" />
+		<wifiap bssid="00:12:bf:e0:f8:b2" md5essid="d71db8dcc8be841383ef1ef252a79030" ssid="Daheim" capa="[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]" ss="-91" ntiu="2417"/>
+		<wifiap bssid="88:25:2c:d0:d7:72" md5essid="87275307b91ac1e71f6c18e4a3a7d7d" ssid="WLAN-D0D746" capa="[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]" ss="-91" ntiu="2437"/>
+		<wifiap bssid="00:1a:4f:3b:3c:47" md5essid="45acfb94219413b1d818fe225ab87851" ssid="WLAN-Home" capa="[WPA-PSK-TKIP][ESS]" ss="-93" ntiu="2462"/>
+		<wifiap bssid="f4:c7:14:37:98:ae" md5essid="41ca6315107316d2c8f29ae9a53d8cfd" ssid="WLAN-ABC987" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-92" ntiu="2412"/>
+	<gps time="20130829094314" lng="48.15" lat="11.6004" alt="561" hdg="75.6723" spe="2.29571" accuracy="15" />
+</scan>
+</logfile>

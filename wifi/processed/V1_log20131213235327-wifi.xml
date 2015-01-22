@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logfile manufacturer="Samsung" model="Nexus S" revision="4.3.1" swid="Radiobeacon" swver="0.7.8" exportver="0.7.8" >
+<scan time="20131213235327" >
+	<gps time="20131213235327" lng="11.587371654553468" lat="48.14342729339799" alt="572.0" hdg="289.09442138671875" spe="11.65117073059082" accuracy="15.0" />
+		<wifiap bssid="cc5d4eec7ddb" md5essid="a7647a15b6b28e46a7b573d9a978391" ssid="mucwlan" capa="[WPA-PSK-TKIP][WPA2-PSK-TKIP][ESS]" ss="-90" ntiu="2437"/>
+		<wifiap bssid="00260bdc09d9" md5essid="d15dd6a12aa617e96699efba7dda160" ssid="ib01" capa="[WPA2-PSK-CCMP-preauth][ESS]" ss="-84" ntiu="2417"/>
+		<wifiap bssid="70ca9b9a0328" md5essid="7f44eaff2dcf3ef9116da8a86fbd1dd" ssid="surveillance207" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-94" ntiu="2452"/>
+		<wifiap bssid="442b037ee3c8" md5essid="d122b6dae35dee679ac0885870361bc6" ssid="auctus" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-95" ntiu="2472"/>
+		<wifiap bssid="70ca9b99fd54" md5essid="73e8201d5b9e8395c580725d26d5b3f" ssid="bellevue" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-96" ntiu="2412"/>
+		<wifiap bssid="001c4aa2c56d" md5essid="0312c79a56e1060f6e756882452da" ssid="sspw" capa="[WPA2-PSK-CCMP][ESS]" ss="-96" ntiu="2437"/>
+		<wifiap bssid="00022d2b720f" md5essid="b8636fd0ef2c9a579f46aba209517e8" ssid="gotobavaria" capa="[WEP][ESS]" ss="-94" ntiu="2452"/>
+		<wifiap bssid="002401a8b4ae" md5essid="2661663488ca362221cf2e3d527b8" ssid="alegra" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-91" ntiu="2437"/>
+		<wifiap bssid="44add90e6400" md5essid="a5d8697a4aa87020c53f263023f49" ssid="vistegro" capa="[WPA2-PSK-CCMP][ESS]" ss="-95" ntiu="2472"/>
+		<wifiap bssid="c464130c53a4" md5essid="887fff71353df0a55d766016e235e5" ssid="surveillance204" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-97" ntiu="2427"/>
+		<wifiap bssid="442b037ee3c9" md5essid="3981d771d6621cacd2fbe4e10cf6796" ssid="auctus_guest" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-99" ntiu="2472"/>
+	<gps time="20131213235327" lng="11.587371654553468" lat="48.14342729339799" alt="572.0" hdg="289.09442138671875" spe="11.65117073059082" accuracy="15.0" />
+</scan>
+<scan time="20131213235329" >
+	<gps time="20131213235329" lng="11.587054829416331" lat="48.14348774808256" alt="573.0" hdg="289.6208190917969" spe="11.762907028198242" accuracy="15.0" />
+		<wifiap bssid="00260bdc09d9" md5essid="d15dd6a12aa617e96699efba7dda160" ssid="ib01" capa="[WPA2-PSK-CCMP-preauth][ESS]" ss="-91" ntiu="2417"/>
+		<wifiap bssid="70ca9b9a0328" md5essid="7f44eaff2dcf3ef9116da8a86fbd1dd" ssid="surveillance207" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-94" ntiu="2452"/>
+		<wifiap bssid="442b037ee3c8" md5essid="d122b6dae35dee679ac0885870361bc6" ssid="auctus" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-90" ntiu="2472"/>
+		<wifiap bssid="70ca9b99fd54" md5essid="73e8201d5b9e8395c580725d26d5b3f" ssid="bellevue" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-96" ntiu="2412"/>
+		<wifiap bssid="001c4aa2c56d" md5essid="0312c79a56e1060f6e756882452da" ssid="sspw" capa="[WPA2-PSK-CCMP][ESS]" ss="-96" ntiu="2437"/>
+	<gps time="20131213235329" lng="11.587054829416331" lat="48.14348774808256" alt="573.0" hdg="289.6208190917969" spe="11.762907028198242" accuracy="15.0" />
+</scan>
+</logfile>

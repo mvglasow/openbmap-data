@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logfile manufacturer="OnePlus" model="A0001" revision="4.4.4" swid="Radiobeacon" swver="0.8.3" exportver="0.8.3">
+<scan time="20141130220000">
+	<gps time="20141130220000" lng="11.56577888" lat="48.14889836" alt="559.0" hdg="22.0" spe="9.720870018005371" accuracy="3.0" type="begin" />
+		<wifiap bssid="9c1c12add960" md5essid="46365d4453b9ff385e635a279e7b8a6" ssid="apa04-0bd" capa="[WPA2-EAP-CCMP][ESS]" ss="-69" ntiu="2452"/>
+		<wifiap bssid="9c1c12add963" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-70" ntiu="2452"/>
+		<wifiap bssid="5c353bcd53a5" md5essid="5171ca883eeefeeaa58c298922cc8" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-71" ntiu="2437"/>
+		<wifiap bssid="246511d50e86" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="02230847a807" md5essid="9278f21592c6cdc49617da61b316a" ssid="easybox-adfa626" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="e8de27ff01cb" md5essid="d0f22987607584b2568cc3f883efe58" ssid="04f12c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-78" ntiu="2412"/>
+		<wifiap bssid="00035265c664" md5essid="d6d3dff9d1f9da89e6de31955d38af" ssid="ap01-2bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-79" ntiu="2437"/>
+		<wifiap bssid="000fc90493e6" md5essid="cc89b2985145d44819136d8746455dd" ssid="www_acomtec_de" capa="[WPA-PSK-TKIP][WPS][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="24dec6e54ab2" md5essid="a38e8960a643585149ab52184a58b8b" ssid="eduroam-a" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="24dec6e54ab4" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="24dec6e54ab0" md5essid="61385f42575e61caa03d5e5127ac944" ssid="apa03-2be" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="24dec6e54ab1" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="00035265c662" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-80" ntiu="2437"/>
+		<wifiap bssid="00035265c663" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2437"/>
+		<wifiap bssid="022308f17179" md5essid="6e81529d9df3b2c38cf2a456f4a8224" ssid="wjkoch" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-82" ntiu="2457"/>
+		<wifiap bssid="00259ccf8407" md5essid="71652a4d4ad8e54d44b7d22c442bfea" ssid="tseug nox" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-83" ntiu="2427"/>
+		<wifiap bssid="0003525b8a92" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="f4c7143db266" md5essid="4323d4d0cc4b8eca6318dabd4736347" ssid="wlan-b26672" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2457"/>
+		<wifiap bssid="9cc7a6acfb44" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2447"/>
+		<wifiap bssid="0003525b8a94" md5essid="9b9c2b7cbd7ab18f7adf3664dcb780a8" ssid="ap03-1be" capa="[WPA2-PSK-CCMP][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="0003525b8a93" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="0024fea194d5" md5essid="1f53f71b02aa65985aa573649f9ce33" ssid="fritz!box fon wlan 7240" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-86" ntiu="2412"/>
+		<wifiap bssid="c025062e4c6f" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-86" ntiu="2422"/>
+		<wifiap bssid="000352e1c094" md5essid="4dfe6b28861487e27cadc427b74bee7" ssid="ap02-0bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="c025067a8928" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2457"/>
+		<wifiap bssid="00a0f9188b23" md5essid="31f2385ba9cc65dba7ccb9aa5c5b760" ssid="apollo" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-88" ntiu="2452"/>
+		<wifiap bssid="2cb05d4aba3a" md5essid="9fbafd09d922cbce47949ea99dbba3f" ssid="navvis" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-89" ntiu="2457"/>
+		<wifiap bssid="9cc7a6d84903" md5essid="3d39fd1445c56c339b82cc44191b338d" ssid="indien" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2447"/>
+		<wifiap bssid="0024a514e59a" md5essid="082f6722764c65438e8aacd6a1a99" ssid="ls45" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-91" ntiu="2422"/>
+		<wifiap bssid="9c1c12add962" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-69" ntiu="2452"/>
+		<wifiap bssid="04353bcd53a7" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-73" ntiu="2437"/>
+	<gps time="20141130220000" lng="11.56577888" lat="48.14889836" alt="559.0" hdg="22.0" spe="9.720870018005371" accuracy="3.0" type="end" />
+</scan>
+<scan time="20141130220003">
+	<gps time="20141130220003" lng="11.56594753" lat="48.14912253" alt="558.0" hdg="22.799999237060547" spe="9.360533714294434" accuracy="4.0" type="begin" />
+		<wifiap bssid="0024fe4b80d2" md5essid="d4829c119d114d466311ddb5dd54e4e" ssid="fritz!box wlan 3170" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-75" ntiu="2437"/>
+		<wifiap bssid="1883bf259c4d" md5essid="22b29fd1285a92637e683df1df1b42" ssid="gastzugang" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2437"/>
+		<wifiap bssid="0896d7176b5e" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-72" ntiu="2412"/>
+		<wifiap bssid="68b6fcd8f998" md5essid="2bb58dfce58cf09ccbe777aa7dbefae" ssid="hitron-f990" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2462"/>
+		<wifiap bssid="0003529731e3" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="2437"/>
+		<wifiap bssid="0003529731e2" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="2437"/>
+		<wifiap bssid="0003529731e4" md5essid="4f853ed6bee21735bffc31be070fe42" ssid="ap03-2fm" capa="[WPA2-PSK-CCMP][ESS]" ss="-77" ntiu="2437"/>
+		<wifiap bssid="c02506c987c8" md5essid="5b7e72dabbc8cf4018cb53c43532e133" ssid="maxi_ev_luisenstrasse24" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2452"/>
+		<wifiap bssid="bc0543e952af" md5essid="263bce65e68ab4e23f2826376b9fa5" ssid="maria" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-73" ntiu="2462"/>
+		<wifiap bssid="ec1a591afe53" md5essid="a28019996bcc2a565d9fa2f8b813072" ssid="bergen" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2472"/>
+		<wifiap bssid="c025067596ff" md5essid="d9707081931adfb47ba07f971220e4e1" ssid="fritz!box wlan 3270" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-77" ntiu="2412"/>
+		<wifiap bssid="a0f3c1d746c0" md5essid="83daf534b68afcd6268ab53a4a4c80" ssid="tp-link_d746c0" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2452"/>
+		<wifiap bssid="9cc7a66c83d7" md5essid="c449b7658989a123bc29f98a9663035" ssid="glasfaser 2gb/s" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2422"/>
+		<wifiap bssid="28c68e745e8a" md5essid="9de37a627c25684fdd519ca8473e34" ssid="mmmm" capa="[WPS][ESS]" ss="-80" ntiu="2472"/>
+		<wifiap bssid="0003529731e0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-76" ntiu="2437"/>
+		<wifiap bssid="68b6fcd8f99a" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="880355d12afc" md5essid="58a07b294d25c2bce4c58dabdf648d" ssid="easybox-d12a14" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-74" ntiu="2422"/>
+		<wifiap bssid="c8cbb8445b44" md5essid="9b67248a043e75ee92297aad71888b9" ssid="hp-print-44-officejet 6600" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2412"/>
+		<wifiap bssid="0003527587d3" md5essid="82da76e6a975f435972875c8092a14" ssid="ap01-0bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-80" ntiu="2472"/>
+		<wifiap bssid="0003527587d2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2472"/>
+		<wifiap bssid="1883bf259c4c" md5essid="641470f978767d60f390e734d4c22e36" ssid="easybox-259c44" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2437"/>
+		<wifiap bssid="0003527587d0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-81" ntiu="2472"/>
+		<wifiap bssid="000352c022d3" md5essid="a38e8960a643585149ab52184a58b8b" ssid="eduroam-a" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="5180"/>
+		<wifiap bssid="000352c022d4" md5essid="b59fddc5e6502abbd7956d868cebec71" ssid="ap02-1bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-75" ntiu="5180"/>
+		<wifiap bssid="000352c022d2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-76" ntiu="5180"/>
+		<wifiap bssid="000352c022d5" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-76" ntiu="5180"/>
+		<wifiap bssid="022308c4c0c8" md5essid="9c35041d2eb73e16bb6e88e22193528" ssid="easybox-de1901" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-82" ntiu="2412"/>
+		<wifiap bssid="001a70aac005" md5essid="df83ead88ca3e166957bb5c6eac9e" ssid="oase" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="1883bf8518ef" md5essid="196bcfdb9b59c0c6a7ec8498aedb349" ssid="o2-wlan29" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-81" ntiu="2447"/>
+		<wifiap bssid="0024fe42d018" md5essid="71b1a38aca6b53059aadae1b559f6f" ssid="personalhero" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2437"/>
+		<wifiap bssid="000352c022d0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-75" ntiu="5180"/>
+		<wifiap bssid="000352998744" md5essid="82da76e6a975f435972875c8092a14" ssid="ap01-0bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-77" ntiu="5180"/>
+		<wifiap bssid="000352998742" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="5180"/>
+		<wifiap bssid="000352998743" md5essid="a38e8960a643585149ab52184a58b8b" ssid="eduroam-a" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="5180"/>
+		<wifiap bssid="0003524eec44" md5essid="b59fddc5e6502abbd7956d868cebec71" ssid="ap02-1bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2412"/>
+		<wifiap bssid="0003524eec42" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-78" ntiu="2412"/>
+		<wifiap bssid="849ca6b175cb" md5essid="22b29fd1285a92637e683df1df1b42" ssid="gastzugang" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-81" ntiu="2412"/>
+		<wifiap bssid="000352998740" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-76" ntiu="5180"/>
+		<wifiap bssid="000352998745" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[ESS]" ss="-77" ntiu="5180"/>
+		<wifiap bssid="5c353bf5ebf0" md5essid="853df525245dedc5782d0d2ecf1d27c" ssid="kdg-5ebeb" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-74" ntiu="2437"/>
+		<wifiap bssid="fc15b4b1da35" md5essid="c6663a22fee4696b6ed15c6d372f2c" ssid="hp-print-35-photosmart 7520" capa="[WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2447"/>
+		<wifiap bssid="7c4fb5321af2" md5essid="fea8d5476598df81d0991aa1f77bbce8" ssid="wlan-321a22" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-77" ntiu="2412"/>
+		<wifiap bssid="000f611e3133" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="000f611e3132" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000f611e3134" md5essid="af654768166a2c8fba94cd5df2e9514" ssid="ap03-2bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="3431c45af2d3" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2412"/>
+		<wifiap bssid="001e2ae57d17" md5essid="117c24d49f54096413dd64280399ea9" ssid="panam" capa="[WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2462"/>
+		<wifiap bssid="0003525c2ec0" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-86" ntiu="2462"/>
+		<wifiap bssid="90f65233440a" md5essid="d164818cf198dbeb7057c3655381cde" ssid="navvis demo" capa="[WPA2-PSK-CCMP][ESS]" ss="-64" ntiu="2452"/>
+		<wifiap bssid="001e69e874f3" md5essid="f5a87e29a560b5a6486edba4711758d5" ssid="thom_d009689" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-82" ntiu="2422"/>
+		<wifiap bssid="000f611e3130" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="04353bf5ebf2" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-81" ntiu="2437"/>
+		<wifiap bssid="dca5f4b878a1" md5essid="6ee65443e5123809252f1c628e013f" ssid="30 min free wifi" capa="[ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="9c1c12add961" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-69" ntiu="2452"/>
+		<wifiap bssid="9c1c12add960" md5essid="46365d4453b9ff385e635a279e7b8a6" ssid="apa04-0bd" capa="[WPA2-EAP-CCMP][ESS]" ss="-69" ntiu="2452"/>
+		<wifiap bssid="9c1c12add963" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-70" ntiu="2452"/>
+		<wifiap bssid="5c353bcd53a5" md5essid="5171ca883eeefeeaa58c298922cc8" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-71" ntiu="2437"/>
+		<wifiap bssid="246511d50e86" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="02230847a807" md5essid="9278f21592c6cdc49617da61b316a" ssid="easybox-adfa626" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="e8de27ff01cb" md5essid="d0f22987607584b2568cc3f883efe58" ssid="04f12c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-80" ntiu="2412"/>
+		<wifiap bssid="00035265c664" md5essid="d6d3dff9d1f9da89e6de31955d38af" ssid="ap01-2bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-79" ntiu="2437"/>
+		<wifiap bssid="000fc90493e6" md5essid="cc89b2985145d44819136d8746455dd" ssid="www_acomtec_de" capa="[WPA-PSK-TKIP][WPS][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="24dec6e54ab2" md5essid="a38e8960a643585149ab52184a58b8b" ssid="eduroam-a" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="24dec6e54ab4" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="24dec6e54ab0" md5essid="61385f42575e61caa03d5e5127ac944" ssid="apa03-2be" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="24dec6e54ab1" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="00035265c662" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-80" ntiu="2437"/>
+		<wifiap bssid="00035265c663" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2437"/>
+		<wifiap bssid="022308f17179" md5essid="6e81529d9df3b2c38cf2a456f4a8224" ssid="wjkoch" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-82" ntiu="2457"/>
+		<wifiap bssid="00259ccf8407" md5essid="71652a4d4ad8e54d44b7d22c442bfea" ssid="tseug nox" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2427"/>
+		<wifiap bssid="0003525b8a92" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="f4c7143db266" md5essid="4323d4d0cc4b8eca6318dabd4736347" ssid="wlan-b26672" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2457"/>
+		<wifiap bssid="9cc7a6acfb44" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2447"/>
+		<wifiap bssid="0003525b8a94" md5essid="9b9c2b7cbd7ab18f7adf3664dcb780a8" ssid="ap03-1be" capa="[WPA2-PSK-CCMP][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="0003525b8a93" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="0024fea194d5" md5essid="1f53f71b02aa65985aa573649f9ce33" ssid="fritz!box fon wlan 7240" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="c025062e4c6f" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2422"/>
+		<wifiap bssid="000352e1c094" md5essid="4dfe6b28861487e27cadc427b74bee7" ssid="ap02-0bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-75" ntiu="2437"/>
+		<wifiap bssid="c025067a8928" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2457"/>
+		<wifiap bssid="00a0f9188b23" md5essid="31f2385ba9cc65dba7ccb9aa5c5b760" ssid="apollo" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-89" ntiu="2452"/>
+		<wifiap bssid="2cb05d4aba3a" md5essid="9fbafd09d922cbce47949ea99dbba3f" ssid="navvis" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2457"/>
+		<wifiap bssid="9cc7a6d84903" md5essid="3d39fd1445c56c339b82cc44191b338d" ssid="indien" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-88" ntiu="2447"/>
+		<wifiap bssid="0024a514e59a" md5essid="082f6722764c65438e8aacd6a1a99" ssid="ls45" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-75" ntiu="2422"/>
+		<wifiap bssid="9c1c12add962" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-69" ntiu="2452"/>
+		<wifiap bssid="04353bcd53a7" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="d2aeec4c2c80" md5essid="4192f56fc6232795114f296c55985" ssid="direct-xyphilips tv hh" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-72" ntiu="2422"/>
+		<wifiap bssid="000352e1c092" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-72" ntiu="2437"/>
+		<wifiap bssid="000352e1c093" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-72" ntiu="2437"/>
+		<wifiap bssid="1883bf2f44cf" md5essid="766e3ddbdbd74039b23d41539270699d" ssid="o2-wlan83" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-72" ntiu="2452"/>
+		<wifiap bssid="9c80df755e62" md5essid="b720a3d51957e4894fd543393981671" ssid="easybox-755e24" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="3431c460a815" md5essid="ebea0bc6c91e1e858ddddfa6192ce7" ssid="museum" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="28be9b342c3e" md5essid="4f7ea6d338c4fc2b783c7c2f0973f58" ssid="thom_d0050262" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-76" ntiu="2437"/>
+		<wifiap bssid="7c4fb56ce12d" md5essid="a9247c1ace63ebc27ed3202deb1e665" ssid="alice-wlan08" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-77" ntiu="2432"/>
+		<wifiap bssid="1883bf3a1bdc" md5essid="15dd29fd4cdd7193f86f84c57092767" ssid="easybox-3a1b04" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-80" ntiu="2457"/>
+		<wifiap bssid="b0487adf64b8" md5essid="2dbbeed9392e7d8df0426d364332052" ssid="lst. controlling" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2427"/>
+		<wifiap bssid="28be9bd21ae2" md5essid="c8d07ba3881390438af258337a6c58d9" ssid="thom_d0049704" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-86" ntiu="2462"/>
+		<wifiap bssid="3431c4833934" md5essid="58bf511bbd25b580c11a91e0a7e879c0" ssid="jodocus3" capa="[WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2462"/>
+		<wifiap bssid="001e69e61853" md5essid="7d0876261b410e68588d34d764518e" ssid="thomson" capa="[WPA2-PSK-TKIP][ESS]" ss="-87" ntiu="2462"/>
+		<wifiap bssid="9c1c12ae43a1" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-87" ntiu="2452"/>
+		<wifiap bssid="f0d1a90ce394" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2437"/>
+		<wifiap bssid="1cc63c1f4f03" md5essid="5a49ca012df5757bda2f15bce1982d1" ssid="alice-wlan14" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-91" ntiu="2452"/>
+		<wifiap bssid="1cc63c6f3176" md5essid="a8261c3bc29bdbebaa1e4b73aea1f269" ssid="alice-wlan64" capa="[WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-91" ntiu="2442"/>
+		<wifiap bssid="000352e1c090" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-72" ntiu="2437"/>
+		<wifiap bssid="0003525b8a90" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="9c1c12ade382" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-85" ntiu="2412"/>
+	<gps time="20141130220003" lng="11.56594753" lat="48.14912253" alt="558.0" hdg="22.799999237060547" spe="9.360533714294434" accuracy="4.0" type="end" />
+</scan>
+<scan time="20141130220009">
+	<gps time="20141130220009" lng="11.56619255" lat="48.14953005" alt="564.0" hdg="22.100000381469727" spe="8.110055923461914" accuracy="6.0" type="begin" />
+		<wifiap bssid="0024fe4b80d2" md5essid="d4829c119d114d466311ddb5dd54e4e" ssid="fritz!box wlan 3170" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-75" ntiu="2437"/>
+		<wifiap bssid="1883bf259c4d" md5essid="22b29fd1285a92637e683df1df1b42" ssid="gastzugang" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2437"/>
+		<wifiap bssid="0896d7176b5e" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-72" ntiu="2412"/>
+		<wifiap bssid="68b6fcd8f998" md5essid="2bb58dfce58cf09ccbe777aa7dbefae" ssid="hitron-f990" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2462"/>
+		<wifiap bssid="0003529731e3" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="2437"/>
+		<wifiap bssid="0003529731e2" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="2437"/>
+		<wifiap bssid="0003529731e4" md5essid="4f853ed6bee21735bffc31be070fe42" ssid="ap03-2fm" capa="[WPA2-PSK-CCMP][ESS]" ss="-77" ntiu="2437"/>
+		<wifiap bssid="c02506c987c8" md5essid="5b7e72dabbc8cf4018cb53c43532e133" ssid="maxi_ev_luisenstrasse24" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2452"/>
+		<wifiap bssid="ec1a591afe53" md5essid="a28019996bcc2a565d9fa2f8b813072" ssid="bergen" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2472"/>
+		<wifiap bssid="c025067596ff" md5essid="d9707081931adfb47ba07f971220e4e1" ssid="fritz!box wlan 3270" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-77" ntiu="2412"/>
+		<wifiap bssid="a0f3c1d746c0" md5essid="83daf534b68afcd6268ab53a4a4c80" ssid="tp-link_d746c0" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2452"/>
+		<wifiap bssid="28c68e745e8a" md5essid="9de37a627c25684fdd519ca8473e34" ssid="mmmm" capa="[WPS][ESS]" ss="-80" ntiu="2472"/>
+		<wifiap bssid="0003529731e0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-76" ntiu="2437"/>
+		<wifiap bssid="68b6fcd8f99a" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="880355d12afc" md5essid="58a07b294d25c2bce4c58dabdf648d" ssid="easybox-d12a14" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-74" ntiu="2422"/>
+		<wifiap bssid="c8cbb8445b44" md5essid="9b67248a043e75ee92297aad71888b9" ssid="hp-print-44-officejet 6600" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2412"/>
+		<wifiap bssid="0003527587d3" md5essid="82da76e6a975f435972875c8092a14" ssid="ap01-0bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-80" ntiu="2472"/>
+		<wifiap bssid="0003527587d2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2472"/>
+		<wifiap bssid="1883bf259c4c" md5essid="641470f978767d60f390e734d4c22e36" ssid="easybox-259c44" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2437"/>
+		<wifiap bssid="0003527587d0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-81" ntiu="2472"/>
+		<wifiap bssid="022308c4c0c8" md5essid="9c35041d2eb73e16bb6e88e22193528" ssid="easybox-de1901" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-82" ntiu="2412"/>
+		<wifiap bssid="001a70aac005" md5essid="df83ead88ca3e166957bb5c6eac9e" ssid="oase" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="1883bf8518ef" md5essid="196bcfdb9b59c0c6a7ec8498aedb349" ssid="o2-wlan29" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-81" ntiu="2447"/>
+		<wifiap bssid="0024fe42d018" md5essid="71b1a38aca6b53059aadae1b559f6f" ssid="personalhero" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2437"/>
+		<wifiap bssid="849ca6b175cb" md5essid="22b29fd1285a92637e683df1df1b42" ssid="gastzugang" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-81" ntiu="2412"/>
+		<wifiap bssid="5c353bf5ebf0" md5essid="853df525245dedc5782d0d2ecf1d27c" ssid="kdg-5ebeb" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-74" ntiu="2437"/>
+		<wifiap bssid="fc15b4b1da35" md5essid="c6663a22fee4696b6ed15c6d372f2c" ssid="hp-print-35-photosmart 7520" capa="[WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2447"/>
+		<wifiap bssid="7c4fb5321af2" md5essid="fea8d5476598df81d0991aa1f77bbce8" ssid="wlan-321a22" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-77" ntiu="2412"/>
+		<wifiap bssid="000f611e3133" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="000f611e3132" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000f611e3134" md5essid="af654768166a2c8fba94cd5df2e9514" ssid="ap03-2bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="3431c45af2d3" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2412"/>
+		<wifiap bssid="001e2ae57d17" md5essid="117c24d49f54096413dd64280399ea9" ssid="panam" capa="[WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2462"/>
+		<wifiap bssid="0003525c2ec0" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-86" ntiu="2462"/>
+		<wifiap bssid="90f65233440a" md5essid="d164818cf198dbeb7057c3655381cde" ssid="navvis demo" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2452"/>
+		<wifiap bssid="001e69e874f3" md5essid="f5a87e29a560b5a6486edba4711758d5" ssid="thom_d009689" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-87" ntiu="2422"/>
+		<wifiap bssid="000f611e3130" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="04353bf5ebf2" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-81" ntiu="2437"/>
+		<wifiap bssid="dca5f4b878a1" md5essid="6ee65443e5123809252f1c628e013f" ssid="30 min free wifi" capa="[ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="9c1c12add961" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-69" ntiu="2452"/>
+		<wifiap bssid="9c1c12add960" md5essid="46365d4453b9ff385e635a279e7b8a6" ssid="apa04-0bd" capa="[WPA2-EAP-CCMP][ESS]" ss="-69" ntiu="2452"/>
+		<wifiap bssid="9c1c12add963" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-70" ntiu="2452"/>
+		<wifiap bssid="5c353bcd53a5" md5essid="5171ca883eeefeeaa58c298922cc8" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-71" ntiu="2437"/>
+		<wifiap bssid="246511d50e86" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="02230847a807" md5essid="9278f21592c6cdc49617da61b316a" ssid="easybox-adfa626" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="e8de27ff01cb" md5essid="d0f22987607584b2568cc3f883efe58" ssid="04f12c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="00035265c664" md5essid="d6d3dff9d1f9da89e6de31955d38af" ssid="ap01-2bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-79" ntiu="2437"/>
+		<wifiap bssid="000fc90493e6" md5essid="cc89b2985145d44819136d8746455dd" ssid="www_acomtec_de" capa="[WPA-PSK-TKIP][WPS][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="24dec6e54ab2" md5essid="a38e8960a643585149ab52184a58b8b" ssid="eduroam-a" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="24dec6e54ab4" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="24dec6e54ab0" md5essid="61385f42575e61caa03d5e5127ac944" ssid="apa03-2be" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="24dec6e54ab1" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="00035265c662" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-80" ntiu="2437"/>
+		<wifiap bssid="00035265c663" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2437"/>
+		<wifiap bssid="022308f17179" md5essid="6e81529d9df3b2c38cf2a456f4a8224" ssid="wjkoch" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-82" ntiu="2457"/>
+		<wifiap bssid="00259ccf8407" md5essid="71652a4d4ad8e54d44b7d22c442bfea" ssid="tseug nox" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2427"/>
+		<wifiap bssid="0003525b8a92" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="f4c7143db266" md5essid="4323d4d0cc4b8eca6318dabd4736347" ssid="wlan-b26672" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2457"/>
+		<wifiap bssid="9cc7a6acfb44" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2447"/>
+		<wifiap bssid="0003525b8a94" md5essid="9b9c2b7cbd7ab18f7adf3664dcb780a8" ssid="ap03-1be" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="0003525b8a93" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="0024fea194d5" md5essid="1f53f71b02aa65985aa573649f9ce33" ssid="fritz!box fon wlan 7240" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="c025062e4c6f" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2422"/>
+		<wifiap bssid="000352e1c094" md5essid="4dfe6b28861487e27cadc427b74bee7" ssid="ap02-0bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-75" ntiu="2437"/>
+		<wifiap bssid="c025067a8928" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2457"/>
+		<wifiap bssid="00a0f9188b23" md5essid="31f2385ba9cc65dba7ccb9aa5c5b760" ssid="apollo" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-89" ntiu="2452"/>
+		<wifiap bssid="2cb05d4aba3a" md5essid="9fbafd09d922cbce47949ea99dbba3f" ssid="navvis" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2457"/>
+		<wifiap bssid="9cc7a6d84903" md5essid="3d39fd1445c56c339b82cc44191b338d" ssid="indien" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-88" ntiu="2447"/>
+		<wifiap bssid="0024a514e59a" md5essid="082f6722764c65438e8aacd6a1a99" ssid="ls45" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-83" ntiu="2422"/>
+		<wifiap bssid="9c1c12add962" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-69" ntiu="2452"/>
+		<wifiap bssid="04353bcd53a7" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="d2aeec4c2c80" md5essid="4192f56fc6232795114f296c55985" ssid="direct-xyphilips tv hh" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2422"/>
+		<wifiap bssid="000352e1c092" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-72" ntiu="2437"/>
+		<wifiap bssid="000352e1c093" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-72" ntiu="2437"/>
+		<wifiap bssid="1883bf2f44cf" md5essid="766e3ddbdbd74039b23d41539270699d" ssid="o2-wlan83" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-72" ntiu="2452"/>
+		<wifiap bssid="9c80df755e62" md5essid="b720a3d51957e4894fd543393981671" ssid="easybox-755e24" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="3431c460a815" md5essid="ebea0bc6c91e1e858ddddfa6192ce7" ssid="museum" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="28be9b342c3e" md5essid="4f7ea6d338c4fc2b783c7c2f0973f58" ssid="thom_d0050262" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-76" ntiu="2437"/>
+		<wifiap bssid="7c4fb56ce12d" md5essid="a9247c1ace63ebc27ed3202deb1e665" ssid="alice-wlan08" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-77" ntiu="2432"/>
+		<wifiap bssid="1883bf3a1bdc" md5essid="15dd29fd4cdd7193f86f84c57092767" ssid="easybox-3a1b04" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-80" ntiu="2457"/>
+		<wifiap bssid="b0487adf64b8" md5essid="2dbbeed9392e7d8df0426d364332052" ssid="lst. controlling" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-69" ntiu="2427"/>
+		<wifiap bssid="28be9bd21ae2" md5essid="c8d07ba3881390438af258337a6c58d9" ssid="thom_d0049704" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-86" ntiu="2462"/>
+		<wifiap bssid="3431c4833934" md5essid="58bf511bbd25b580c11a91e0a7e879c0" ssid="jodocus3" capa="[WPA2-PSK-CCMP][ESS]" ss="-66" ntiu="2462"/>
+		<wifiap bssid="001e69e61853" md5essid="7d0876261b410e68588d34d764518e" ssid="thomson" capa="[WPA2-PSK-TKIP][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="9c1c12ae43a1" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-87" ntiu="2452"/>
+		<wifiap bssid="f0d1a90ce394" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2437"/>
+		<wifiap bssid="1cc63c1f4f03" md5essid="5a49ca012df5757bda2f15bce1982d1" ssid="alice-wlan14" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-91" ntiu="2452"/>
+		<wifiap bssid="1cc63c6f3176" md5essid="a8261c3bc29bdbebaa1e4b73aea1f269" ssid="alice-wlan64" capa="[WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-90" ntiu="2442"/>
+		<wifiap bssid="000352e1c090" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-72" ntiu="2437"/>
+		<wifiap bssid="0003525b8a90" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="9c1c12ade382" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-85" ntiu="2412"/>
+		<wifiap bssid="c02506a0cf44" md5essid="9ffdb33ef5802146e555cf9e1082e314" ssid="oms" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-70" ntiu="2412"/>
+		<wifiap bssid="80ea96ec5c29" md5essid="6ae608321df12cb19a62d94788088cc" ssid="oms wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-77" ntiu="5260"/>
+		<wifiap bssid="386077d21a65" md5essid="d0f22987607584b2568cc3f883efe58" ssid="04f12c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="3431c4833935" md5essid="58bf511bbd25b580c11a91e0a7e879c0" ssid="jodocus3" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="5180"/>
+		<wifiap bssid="80ea96ec5c28" md5essid="6ae608321df12cb19a62d94788088cc" ssid="oms wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-74" ntiu="2462"/>
+		<wifiap bssid="3481c41b4c2c" md5essid="432d863e2c83f5c059168bb5e539931" ssid="stueberlimersten" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="5180"/>
+		<wifiap bssid="88252cfa708e" md5essid="9b2e1bee488bfb8602327ac7c4662a" ssid="wlan-fa7030" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-79" ntiu="2437"/>
+		<wifiap bssid="1883bf2bc2d8" md5essid="164d542824ef9f523547498f792ad22" ssid="o2-wlan44" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-80" ntiu="2457"/>
+		<wifiap bssid="c0250659553b" md5essid="7a7dd2fddcf479f336b9728d559b9c9" ssid="sucht euch ein eigenes wlan!" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-80" ntiu="2412"/>
+		<wifiap bssid="1883bf2f610d" md5essid="196bcfdb9b59c0c6a7ec8498aedb349" ssid="o2-wlan29" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-80" ntiu="2452"/>
+		<wifiap bssid="28cfe985443a" md5essid="ed72e38ab0eaed24e226da6b73dbc52" ssid="wifi 2" capa="[WPA2-PSK-CCMP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="c0250620c495" md5essid="d4829c119d114d466311ddb5dd54e4e" ssid="fritz!box wlan 3170" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="20c9d0a66dc4" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="3431c41afd85" md5essid="9ffdb33ef5802146e555cf9e1082e314" ssid="oms" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2412"/>
+		<wifiap bssid="1cc63c989291" md5essid="a9f92cf91644593b11940fe73ffa3" ssid="wlan-989237" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2412"/>
+		<wifiap bssid="20c9d01b3a8b" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2437"/>
+		<wifiap bssid="881fa142f3c2" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2437"/>
+		<wifiap bssid="3481c4143825" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA2-PSK-CCMP][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="fc94e3026676" md5essid="26443a9ebd46e3545489c71699a0dc" ssid="thom_d0045291" capa="[WPA2-PSK-CCMP+TKIP][ESS]" ss="-86" ntiu="2447"/>
+		<wifiap bssid="0003525b87d3" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-86" ntiu="2432"/>
+		<wifiap bssid="00255ec735b0" md5essid="305d4b3b92b9d4691799749983c6e4" ssid="alice-wlanaf" capa="[WPA-PSK-TKIP][WPS][ESS]" ss="-88" ntiu="2452"/>
+		<wifiap bssid="849ca67fc759" md5essid="1f2d8f19bcb819e6653235c30faa7" ssid="pepe-nietnagel" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-89" ntiu="2432"/>
+		<wifiap bssid="34080425b4b4" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-90" ntiu="2427"/>
+		<wifiap bssid="6c709fe173fe" md5essid="8a1e1b4c2562dd0c399cf972cef66" ssid="twentyfour" capa="[WPA2-PSK-CCMP][ESS]" ss="-91" ntiu="2462"/>
+		<wifiap bssid="000f6506f8f8" md5essid="f8d074cdd2da94fa935ede15dfacdee" ssid="tizi.tv 12531" capa="[ESS]" ss="-71" ntiu="2422"/>
+	<gps time="20141130220009" lng="11.56619255" lat="48.14953005" alt="564.0" hdg="22.100000381469727" spe="8.110055923461914" accuracy="6.0" type="end" />
+</scan>
+<scan time="20141130220014">
+	<gps time="20141130220014" lng="11.56642326" lat="48.14986432" alt="557.0" hdg="20.700000762939453" spe="7.858715057373047" accuracy="6.0" type="begin" />
+		<wifiap bssid="1883bf259c4d" md5essid="22b29fd1285a92637e683df1df1b42" ssid="gastzugang" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2437"/>
+		<wifiap bssid="68b6fcd8f998" md5essid="2bb58dfce58cf09ccbe777aa7dbefae" ssid="hitron-f990" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2462"/>
+		<wifiap bssid="ec1a591afe53" md5essid="a28019996bcc2a565d9fa2f8b813072" ssid="bergen" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2472"/>
+		<wifiap bssid="28c68e745e8a" md5essid="9de37a627c25684fdd519ca8473e34" ssid="mmmm" capa="[WPS][ESS]" ss="-80" ntiu="2472"/>
+		<wifiap bssid="880355d12afc" md5essid="58a07b294d25c2bce4c58dabdf648d" ssid="easybox-d12a14" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-74" ntiu="2422"/>
+		<wifiap bssid="c8cbb8445b44" md5essid="9b67248a043e75ee92297aad71888b9" ssid="hp-print-44-officejet 6600" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2412"/>
+		<wifiap bssid="0003527587d3" md5essid="82da76e6a975f435972875c8092a14" ssid="ap01-0bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-80" ntiu="2472"/>
+		<wifiap bssid="0003527587d2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2472"/>
+		<wifiap bssid="1883bf259c4c" md5essid="641470f978767d60f390e734d4c22e36" ssid="easybox-259c44" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2437"/>
+		<wifiap bssid="0003527587d0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-81" ntiu="2472"/>
+		<wifiap bssid="022308c4c0c8" md5essid="9c35041d2eb73e16bb6e88e22193528" ssid="easybox-de1901" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-82" ntiu="2412"/>
+		<wifiap bssid="1883bf8518ef" md5essid="196bcfdb9b59c0c6a7ec8498aedb349" ssid="o2-wlan29" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-81" ntiu="2447"/>
+		<wifiap bssid="0024fe42d018" md5essid="71b1a38aca6b53059aadae1b559f6f" ssid="personalhero" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2437"/>
+		<wifiap bssid="fc15b4b1da35" md5essid="c6663a22fee4696b6ed15c6d372f2c" ssid="hp-print-35-photosmart 7520" capa="[WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2447"/>
+		<wifiap bssid="3431c45af2d3" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2412"/>
+		<wifiap bssid="90f65233440a" md5essid="d164818cf198dbeb7057c3655381cde" ssid="navvis demo" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2452"/>
+		<wifiap bssid="001e69e874f3" md5essid="f5a87e29a560b5a6486edba4711758d5" ssid="thom_d009689" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-87" ntiu="2422"/>
+		<wifiap bssid="9c1c12add961" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-69" ntiu="2452"/>
+		<wifiap bssid="9c1c12add960" md5essid="46365d4453b9ff385e635a279e7b8a6" ssid="apa04-0bd" capa="[WPA2-EAP-CCMP][ESS]" ss="-69" ntiu="2452"/>
+		<wifiap bssid="9c1c12add963" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-70" ntiu="2452"/>
+		<wifiap bssid="5c353bcd53a5" md5essid="5171ca883eeefeeaa58c298922cc8" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-71" ntiu="2437"/>
+		<wifiap bssid="246511d50e86" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="02230847a807" md5essid="9278f21592c6cdc49617da61b316a" ssid="easybox-adfa626" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="e8de27ff01cb" md5essid="d0f22987607584b2568cc3f883efe58" ssid="04f12c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="00035265c664" md5essid="d6d3dff9d1f9da89e6de31955d38af" ssid="ap01-2bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-79" ntiu="2437"/>
+		<wifiap bssid="000fc90493e6" md5essid="cc89b2985145d44819136d8746455dd" ssid="www_acomtec_de" capa="[WPA-PSK-TKIP][WPS][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="24dec6e54ab2" md5essid="a38e8960a643585149ab52184a58b8b" ssid="eduroam-a" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="24dec6e54ab4" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="24dec6e54ab0" md5essid="61385f42575e61caa03d5e5127ac944" ssid="apa03-2be" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="24dec6e54ab1" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="5580"/>
+		<wifiap bssid="00035265c662" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-80" ntiu="2437"/>
+		<wifiap bssid="00035265c663" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2437"/>
+		<wifiap bssid="022308f17179" md5essid="6e81529d9df3b2c38cf2a456f4a8224" ssid="wjkoch" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-82" ntiu="2457"/>
+		<wifiap bssid="00259ccf8407" md5essid="71652a4d4ad8e54d44b7d22c442bfea" ssid="tseug nox" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2427"/>
+		<wifiap bssid="0003525b8a92" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="f4c7143db266" md5essid="4323d4d0cc4b8eca6318dabd4736347" ssid="wlan-b26672" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2457"/>
+		<wifiap bssid="9cc7a6acfb44" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2447"/>
+		<wifiap bssid="0003525b8a94" md5essid="9b9c2b7cbd7ab18f7adf3664dcb780a8" ssid="ap03-1be" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="0003525b8a93" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="0024fea194d5" md5essid="1f53f71b02aa65985aa573649f9ce33" ssid="fritz!box fon wlan 7240" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="c025062e4c6f" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2422"/>
+		<wifiap bssid="000352e1c094" md5essid="4dfe6b28861487e27cadc427b74bee7" ssid="ap02-0bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-75" ntiu="2437"/>
+		<wifiap bssid="c025067a8928" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2457"/>
+		<wifiap bssid="00a0f9188b23" md5essid="31f2385ba9cc65dba7ccb9aa5c5b760" ssid="apollo" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-89" ntiu="2452"/>
+		<wifiap bssid="2cb05d4aba3a" md5essid="9fbafd09d922cbce47949ea99dbba3f" ssid="navvis" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2457"/>
+		<wifiap bssid="9cc7a6d84903" md5essid="3d39fd1445c56c339b82cc44191b338d" ssid="indien" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-88" ntiu="2447"/>
+		<wifiap bssid="0024a514e59a" md5essid="082f6722764c65438e8aacd6a1a99" ssid="ls45" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-83" ntiu="2422"/>
+		<wifiap bssid="9c1c12add962" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-69" ntiu="2452"/>
+		<wifiap bssid="04353bcd53a7" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="d2aeec4c2c80" md5essid="4192f56fc6232795114f296c55985" ssid="direct-xyphilips tv hh" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2422"/>
+		<wifiap bssid="000352e1c092" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-72" ntiu="2437"/>
+		<wifiap bssid="000352e1c093" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-72" ntiu="2437"/>
+		<wifiap bssid="1883bf2f44cf" md5essid="766e3ddbdbd74039b23d41539270699d" ssid="o2-wlan83" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-72" ntiu="2452"/>
+		<wifiap bssid="9c80df755e62" md5essid="b720a3d51957e4894fd543393981671" ssid="easybox-755e24" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="3431c460a815" md5essid="ebea0bc6c91e1e858ddddfa6192ce7" ssid="museum" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="28be9b342c3e" md5essid="4f7ea6d338c4fc2b783c7c2f0973f58" ssid="thom_d0050262" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-76" ntiu="2437"/>
+		<wifiap bssid="7c4fb56ce12d" md5essid="a9247c1ace63ebc27ed3202deb1e665" ssid="alice-wlan08" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-77" ntiu="2432"/>
+		<wifiap bssid="1883bf3a1bdc" md5essid="15dd29fd4cdd7193f86f84c57092767" ssid="easybox-3a1b04" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-80" ntiu="2457"/>
+		<wifiap bssid="b0487adf64b8" md5essid="2dbbeed9392e7d8df0426d364332052" ssid="lst. controlling" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-69" ntiu="2427"/>
+		<wifiap bssid="28be9bd21ae2" md5essid="c8d07ba3881390438af258337a6c58d9" ssid="thom_d0049704" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-86" ntiu="2462"/>
+		<wifiap bssid="3431c4833934" md5essid="58bf511bbd25b580c11a91e0a7e879c0" ssid="jodocus3" capa="[WPA2-PSK-CCMP][ESS]" ss="-74" ntiu="2462"/>
+		<wifiap bssid="001e69e61853" md5essid="7d0876261b410e68588d34d764518e" ssid="thomson" capa="[WPA2-PSK-TKIP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="9c1c12ae43a1" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-87" ntiu="2452"/>
+		<wifiap bssid="f0d1a90ce394" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2437"/>
+		<wifiap bssid="1cc63c1f4f03" md5essid="5a49ca012df5757bda2f15bce1982d1" ssid="alice-wlan14" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-91" ntiu="2452"/>
+		<wifiap bssid="1cc63c6f3176" md5essid="a8261c3bc29bdbebaa1e4b73aea1f269" ssid="alice-wlan64" capa="[WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-90" ntiu="2442"/>
+		<wifiap bssid="000352e1c090" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-72" ntiu="2437"/>
+		<wifiap bssid="0003525b8a90" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="9c1c12ade382" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-85" ntiu="2412"/>
+		<wifiap bssid="c02506a0cf44" md5essid="9ffdb33ef5802146e555cf9e1082e314" ssid="oms" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="80ea96ec5c29" md5essid="6ae608321df12cb19a62d94788088cc" ssid="oms wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-77" ntiu="5260"/>
+		<wifiap bssid="386077d21a65" md5essid="d0f22987607584b2568cc3f883efe58" ssid="04f12c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="3431c4833935" md5essid="58bf511bbd25b580c11a91e0a7e879c0" ssid="jodocus3" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="5180"/>
+		<wifiap bssid="80ea96ec5c28" md5essid="6ae608321df12cb19a62d94788088cc" ssid="oms wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2462"/>
+		<wifiap bssid="3481c41b4c2c" md5essid="432d863e2c83f5c059168bb5e539931" ssid="stueberlimersten" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="5180"/>
+		<wifiap bssid="88252cfa708e" md5essid="9b2e1bee488bfb8602327ac7c4662a" ssid="wlan-fa7030" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-79" ntiu="2437"/>
+		<wifiap bssid="1883bf2bc2d8" md5essid="164d542824ef9f523547498f792ad22" ssid="o2-wlan44" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-80" ntiu="2457"/>
+		<wifiap bssid="c0250659553b" md5essid="7a7dd2fddcf479f336b9728d559b9c9" ssid="sucht euch ein eigenes wlan!" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-80" ntiu="2412"/>
+		<wifiap bssid="1883bf2f610d" md5essid="196bcfdb9b59c0c6a7ec8498aedb349" ssid="o2-wlan29" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-66" ntiu="2452"/>
+		<wifiap bssid="28cfe985443a" md5essid="ed72e38ab0eaed24e226da6b73dbc52" ssid="wifi 2" capa="[WPA2-PSK-CCMP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="c0250620c495" md5essid="d4829c119d114d466311ddb5dd54e4e" ssid="fritz!box wlan 3170" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="20c9d0a66dc4" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="3431c41afd85" md5essid="9ffdb33ef5802146e555cf9e1082e314" ssid="oms" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2412"/>
+		<wifiap bssid="1cc63c989291" md5essid="a9f92cf91644593b11940fe73ffa3" ssid="wlan-989237" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2412"/>
+		<wifiap bssid="20c9d01b3a8b" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2437"/>
+		<wifiap bssid="881fa142f3c2" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2437"/>
+		<wifiap bssid="3481c4143825" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA2-PSK-CCMP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="fc94e3026676" md5essid="26443a9ebd46e3545489c71699a0dc" ssid="thom_d0045291" capa="[WPA2-PSK-CCMP+TKIP][ESS]" ss="-86" ntiu="2447"/>
+		<wifiap bssid="0003525b87d3" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-86" ntiu="2432"/>
+		<wifiap bssid="00255ec735b0" md5essid="305d4b3b92b9d4691799749983c6e4" ssid="alice-wlanaf" capa="[WPA-PSK-TKIP][WPS][ESS]" ss="-88" ntiu="2452"/>
+		<wifiap bssid="849ca67fc759" md5essid="1f2d8f19bcb819e6653235c30faa7" ssid="pepe-nietnagel" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-89" ntiu="2432"/>
+		<wifiap bssid="34080425b4b4" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-90" ntiu="2427"/>
+		<wifiap bssid="6c709fe173fe" md5essid="8a1e1b4c2562dd0c399cf972cef66" ssid="twentyfour" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="000f6506f8f8" md5essid="f8d074cdd2da94fa935ede15dfacdee" ssid="tizi.tv 12531" capa="[ESS]" ss="-71" ntiu="2422"/>
+		<wifiap bssid="3481c41b4c2b" md5essid="432d863e2c83f5c059168bb5e539931" ssid="stueberlimersten" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-69" ntiu="2412"/>
+		<wifiap bssid="3681c41b4c2b" md5essid="f7ba2a95913a925d1e55db921416c55" ssid="stueberlgastzugang" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-70" ntiu="2412"/>
+		<wifiap bssid="1883bf2cf7a8" md5essid="21948453b1723f75de9762841b0ee" ssid="easybox-2cf760" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-72" ntiu="2452"/>
+		<wifiap bssid="984be1264cb2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="984be1264cb4" md5essid="5c6cb98021e33731a2c30e06c83766c" ssid="ap02-1bf" capa="[WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="984be1264cb5" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="5c353bf500c4" md5essid="1ff5b07d3acd128b385fc94b7d8a562" ssid="i can hear you having sex" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-77" ntiu="2412"/>
+		<wifiap bssid="84a8e46400c6" md5essid="7aaa77d8ea2b87ab9e37b5ccbbe7139f" ssid="wlan-00c691" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-80" ntiu="2437"/>
+		<wifiap bssid="e8de2758a4e2" md5essid="193d369197341beb3418887352b2a59f" ssid="kp-link" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="9072402232e4" md5essid="f689305c395731d325ee3d998eef8019" ssid="bernds wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="507e5da0ca27" md5essid="668e7286d4fd261d9428be41eb23e5" ssid="wlan-a0ca31" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="2465117e7b81" md5essid="22118276f5b98c97c7a74a94d57364" ssid="regina" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2412"/>
+		<wifiap bssid="d85d4c9c0ee6" md5essid="265689cd42376fa9a836e7fbb516497d" ssid="tp-link_9c0ee6" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="04353bf500c6" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="984be1264cb0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-75" ntiu="2412"/>
+	<gps time="20141130220014" lng="11.56642326" lat="48.14986432" alt="557.0" hdg="20.700000762939453" spe="7.858715057373047" accuracy="6.0" type="end" />
+</scan>
+<scan time="20141130220020">
+	<gps time="20141130220020" lng="11.56664384" lat="48.15017996" alt="560.0" hdg="26.399999618530273" spe="6.5917067527771" accuracy="6.0" type="begin" />
+		<wifiap bssid="ec1a591afe53" md5essid="a28019996bcc2a565d9fa2f8b813072" ssid="bergen" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2472"/>
+		<wifiap bssid="28c68e745e8a" md5essid="9de37a627c25684fdd519ca8473e34" ssid="mmmm" capa="[WPS][ESS]" ss="-80" ntiu="2472"/>
+		<wifiap bssid="0003527587d3" md5essid="82da76e6a975f435972875c8092a14" ssid="ap01-0bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-80" ntiu="2472"/>
+		<wifiap bssid="0003527587d2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2472"/>
+		<wifiap bssid="0003527587d0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-81" ntiu="2472"/>
+		<wifiap bssid="fc15b4b1da35" md5essid="c6663a22fee4696b6ed15c6d372f2c" ssid="hp-print-35-photosmart 7520" capa="[WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2447"/>
+		<wifiap bssid="90f65233440a" md5essid="d164818cf198dbeb7057c3655381cde" ssid="navvis demo" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2452"/>
+		<wifiap bssid="001e69e874f3" md5essid="f5a87e29a560b5a6486edba4711758d5" ssid="thom_d009689" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-87" ntiu="2422"/>
+		<wifiap bssid="e8de27ff01cb" md5essid="d0f22987607584b2568cc3f883efe58" ssid="04f12c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="000fc90493e6" md5essid="cc89b2985145d44819136d8746455dd" ssid="www_acomtec_de" capa="[WPA-PSK-TKIP][WPS][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="00259ccf8407" md5essid="71652a4d4ad8e54d44b7d22c442bfea" ssid="tseug nox" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2427"/>
+		<wifiap bssid="0003525b8a92" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="9cc7a6acfb44" md5essid="fcd7d66752f5552af55a21d42aaa960" ssid="fritz!box 7312" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2447"/>
+		<wifiap bssid="0003525b8a94" md5essid="9b9c2b7cbd7ab18f7adf3664dcb780a8" ssid="ap03-1be" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="0003525b8a93" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="0024fea194d5" md5essid="1f53f71b02aa65985aa573649f9ce33" ssid="fritz!box fon wlan 7240" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="c025062e4c6f" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2422"/>
+		<wifiap bssid="000352e1c094" md5essid="4dfe6b28861487e27cadc427b74bee7" ssid="ap02-0bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-75" ntiu="2437"/>
+		<wifiap bssid="00a0f9188b23" md5essid="31f2385ba9cc65dba7ccb9aa5c5b760" ssid="apollo" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-89" ntiu="2452"/>
+		<wifiap bssid="2cb05d4aba3a" md5essid="9fbafd09d922cbce47949ea99dbba3f" ssid="navvis" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2457"/>
+		<wifiap bssid="9cc7a6d84903" md5essid="3d39fd1445c56c339b82cc44191b338d" ssid="indien" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-88" ntiu="2447"/>
+		<wifiap bssid="0024a514e59a" md5essid="082f6722764c65438e8aacd6a1a99" ssid="ls45" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-83" ntiu="2422"/>
+		<wifiap bssid="04353bcd53a7" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="000352e1c092" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-72" ntiu="2437"/>
+		<wifiap bssid="000352e1c093" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-72" ntiu="2437"/>
+		<wifiap bssid="1883bf2f44cf" md5essid="766e3ddbdbd74039b23d41539270699d" ssid="o2-wlan83" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-72" ntiu="2452"/>
+		<wifiap bssid="9c80df755e62" md5essid="b720a3d51957e4894fd543393981671" ssid="easybox-755e24" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="3431c460a815" md5essid="ebea0bc6c91e1e858ddddfa6192ce7" ssid="museum" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="28be9b342c3e" md5essid="4f7ea6d338c4fc2b783c7c2f0973f58" ssid="thom_d0050262" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-76" ntiu="2437"/>
+		<wifiap bssid="7c4fb56ce12d" md5essid="a9247c1ace63ebc27ed3202deb1e665" ssid="alice-wlan08" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-77" ntiu="2432"/>
+		<wifiap bssid="1883bf3a1bdc" md5essid="15dd29fd4cdd7193f86f84c57092767" ssid="easybox-3a1b04" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-80" ntiu="2457"/>
+		<wifiap bssid="b0487adf64b8" md5essid="2dbbeed9392e7d8df0426d364332052" ssid="lst. controlling" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-69" ntiu="2427"/>
+		<wifiap bssid="28be9bd21ae2" md5essid="c8d07ba3881390438af258337a6c58d9" ssid="thom_d0049704" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-86" ntiu="2462"/>
+		<wifiap bssid="3431c4833934" md5essid="58bf511bbd25b580c11a91e0a7e879c0" ssid="jodocus3" capa="[WPA2-PSK-CCMP][ESS]" ss="-74" ntiu="2462"/>
+		<wifiap bssid="001e69e61853" md5essid="7d0876261b410e68588d34d764518e" ssid="thomson" capa="[WPA2-PSK-TKIP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="9c1c12ae43a1" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-87" ntiu="2452"/>
+		<wifiap bssid="f0d1a90ce394" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2437"/>
+		<wifiap bssid="1cc63c1f4f03" md5essid="5a49ca012df5757bda2f15bce1982d1" ssid="alice-wlan14" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-91" ntiu="2452"/>
+		<wifiap bssid="1cc63c6f3176" md5essid="a8261c3bc29bdbebaa1e4b73aea1f269" ssid="alice-wlan64" capa="[WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-90" ntiu="2442"/>
+		<wifiap bssid="000352e1c090" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-72" ntiu="2437"/>
+		<wifiap bssid="0003525b8a90" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="9c1c12ade382" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-85" ntiu="2412"/>
+		<wifiap bssid="c02506a0cf44" md5essid="9ffdb33ef5802146e555cf9e1082e314" ssid="oms" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="80ea96ec5c29" md5essid="6ae608321df12cb19a62d94788088cc" ssid="oms wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-77" ntiu="5260"/>
+		<wifiap bssid="386077d21a65" md5essid="d0f22987607584b2568cc3f883efe58" ssid="04f12c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="3431c4833935" md5essid="58bf511bbd25b580c11a91e0a7e879c0" ssid="jodocus3" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="5180"/>
+		<wifiap bssid="80ea96ec5c28" md5essid="6ae608321df12cb19a62d94788088cc" ssid="oms wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2462"/>
+		<wifiap bssid="3481c41b4c2c" md5essid="432d863e2c83f5c059168bb5e539931" ssid="stueberlimersten" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="5180"/>
+		<wifiap bssid="88252cfa708e" md5essid="9b2e1bee488bfb8602327ac7c4662a" ssid="wlan-fa7030" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-79" ntiu="2437"/>
+		<wifiap bssid="1883bf2bc2d8" md5essid="164d542824ef9f523547498f792ad22" ssid="o2-wlan44" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-80" ntiu="2457"/>
+		<wifiap bssid="c0250659553b" md5essid="7a7dd2fddcf479f336b9728d559b9c9" ssid="sucht euch ein eigenes wlan!" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-80" ntiu="2412"/>
+		<wifiap bssid="1883bf2f610d" md5essid="196bcfdb9b59c0c6a7ec8498aedb349" ssid="o2-wlan29" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-74" ntiu="2452"/>
+		<wifiap bssid="28cfe985443a" md5essid="ed72e38ab0eaed24e226da6b73dbc52" ssid="wifi 2" capa="[WPA2-PSK-CCMP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="c0250620c495" md5essid="d4829c119d114d466311ddb5dd54e4e" ssid="fritz!box wlan 3170" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="20c9d0a66dc4" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="3431c41afd85" md5essid="9ffdb33ef5802146e555cf9e1082e314" ssid="oms" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2412"/>
+		<wifiap bssid="1cc63c989291" md5essid="a9f92cf91644593b11940fe73ffa3" ssid="wlan-989237" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2412"/>
+		<wifiap bssid="20c9d01b3a8b" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2437"/>
+		<wifiap bssid="881fa142f3c2" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2437"/>
+		<wifiap bssid="3481c4143825" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA2-PSK-CCMP][ESS]" ss="-70" ntiu="2462"/>
+		<wifiap bssid="fc94e3026676" md5essid="26443a9ebd46e3545489c71699a0dc" ssid="thom_d0045291" capa="[WPA2-PSK-CCMP+TKIP][ESS]" ss="-86" ntiu="2447"/>
+		<wifiap bssid="0003525b87d3" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-86" ntiu="2432"/>
+		<wifiap bssid="00255ec735b0" md5essid="305d4b3b92b9d4691799749983c6e4" ssid="alice-wlanaf" capa="[WPA-PSK-TKIP][WPS][ESS]" ss="-88" ntiu="2452"/>
+		<wifiap bssid="849ca67fc759" md5essid="1f2d8f19bcb819e6653235c30faa7" ssid="pepe-nietnagel" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-89" ntiu="2432"/>
+		<wifiap bssid="34080425b4b4" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-90" ntiu="2427"/>
+		<wifiap bssid="6c709fe173fe" md5essid="8a1e1b4c2562dd0c399cf972cef66" ssid="twentyfour" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="000f6506f8f8" md5essid="f8d074cdd2da94fa935ede15dfacdee" ssid="tizi.tv 12531" capa="[ESS]" ss="-71" ntiu="2422"/>
+		<wifiap bssid="3481c41b4c2b" md5essid="432d863e2c83f5c059168bb5e539931" ssid="stueberlimersten" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="3681c41b4c2b" md5essid="f7ba2a95913a925d1e55db921416c55" ssid="stueberlgastzugang" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-66" ntiu="2412"/>
+		<wifiap bssid="1883bf2cf7a8" md5essid="21948453b1723f75de9762841b0ee" ssid="easybox-2cf760" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-80" ntiu="2452"/>
+		<wifiap bssid="984be1264cb2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="984be1264cb4" md5essid="5c6cb98021e33731a2c30e06c83766c" ssid="ap02-1bf" capa="[WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="984be1264cb5" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="5c353bf500c4" md5essid="1ff5b07d3acd128b385fc94b7d8a562" ssid="i can hear you having sex" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="84a8e46400c6" md5essid="7aaa77d8ea2b87ab9e37b5ccbbe7139f" ssid="wlan-00c691" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="e8de2758a4e2" md5essid="193d369197341beb3418887352b2a59f" ssid="kp-link" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="9072402232e4" md5essid="f689305c395731d325ee3d998eef8019" ssid="bernds wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="507e5da0ca27" md5essid="668e7286d4fd261d9428be41eb23e5" ssid="wlan-a0ca31" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="2465117e7b81" md5essid="22118276f5b98c97c7a74a94d57364" ssid="regina" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2412"/>
+		<wifiap bssid="d85d4c9c0ee6" md5essid="265689cd42376fa9a836e7fbb516497d" ssid="tp-link_9c0ee6" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="04353bf500c6" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="984be1264cb0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="647002f73e8c" md5essid="ad938fc459e89f7274e73529554bb3" ssid="task4th" capa="[WPA2-PSK-CCMP][ESS]" ss="-70" ntiu="2462"/>
+		<wifiap bssid="0896d7d49a96" md5essid="414e4f9f7b4bfc9684d58c3181f2d6" ssid="ipanema" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-72" ntiu="2462"/>
+		<wifiap bssid="82c7a656e377" md5essid="414e4f9f7b4bfc9684d58c3181f2d6" ssid="ipanema" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-73" ntiu="2462"/>
+		<wifiap bssid="021599ebb298" md5essid="5aeb13c863e69019b829d57cfc5c70b3" ssid="direct-3tc460 series" capa="[WPA2-PSK-CCMP][WPS-AUTH][ESS]" ss="-78" ntiu="2412"/>
+		<wifiap bssid="3431c413b225" md5essid="b3367edc3c73b2bcb2c9ff3666d70" ssid="hfp - fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2412"/>
+		<wifiap bssid="743170885f4d" md5essid="14f1ad22d4d605f4dde7ba0dddab2f" ssid="wlan-885f49" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2412"/>
+		<wifiap bssid="3431c419086e" md5essid="3177a4822e13dfdf0b65fb9faa73981" ssid="sexy_hamster" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-80" ntiu="2412"/>
+		<wifiap bssid="507e5d7aca4c" md5essid="6abe0e0f08bffd5c056a967f7b6f2" ssid="easybox-7aca58" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-81" ntiu="2427"/>
+		<wifiap bssid="24dec60fe4c0" md5essid="43a115647cc6c283519e45188bf2f54c" ssid="apa04-1bf" capa="[WPA2-EAP-CCMP][ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="24dec60fe4c3" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="0896d79d024b" md5essid="38ea539a161c79f35824e5bc1ac5d6" ssid="fritz!wlan repeater 300e" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2462"/>
+		<wifiap bssid="2e6511b121c0" md5essid="f7ba2a95913a925d1e55db921416c55" ssid="stueberlgastzugang" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2412"/>
+		<wifiap bssid="24dec60fe4c1" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd4" md5essid="6ecdd7b434205164df445437bcd1db79" ssid="ap02-3bf" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd6" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2472"/>
+		<wifiap bssid="841b5ed3e4a4" md5essid="30e483ffe59da15ea5ec9350fb8be876" ssid="netgear1806" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="90f65272f63c" md5essid="bb6da3e880f58127ec39af5278e601a" ssid="cefs-seminarraum" capa="[WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-87" ntiu="2452"/>
+		<wifiap bssid="c04a0053b87a" md5essid="f9a3eca6dde789d683a2ea2d13bca68a" ssid="tp-link_53b87a" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-90" ntiu="2472"/>
+		<wifiap bssid="b6487a88df5a" md5essid="8a2676d37c9d117941fe6f6aa656e9b" ssid="connectify-me" capa="[WPA2-PSK-CCMP][ESS]" ss="-91" ntiu="2437"/>
+		<wifiap bssid="0e96d7b3f417" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-91" ntiu="2462"/>
+		<wifiap bssid="001a4f166c93" md5essid="91774f28995c6c11a1b673ec66159ede" ssid="winkelvoss" capa="[WPA2-PSK-CCMP][ESS]" ss="-92" ntiu="2472"/>
+		<wifiap bssid="0019cb4f27e0" md5essid="354577a6b79de3134de1a50cff508d" ssid="o2dsl" capa="[WEP][ESS]" ss="-84" ntiu="2412"/>
+		<wifiap bssid="24dec60fe4c2" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-84" ntiu="2472"/>
+	<gps time="20141130220020" lng="11.56664384" lat="48.15017996" alt="560.0" hdg="26.399999618530273" spe="6.5917067527771" accuracy="6.0" type="end" />
+</scan>
+<scan time="20141130220027">
+	<gps time="20141130220027" lng="11.56693657" lat="48.15060739" alt="562.0" hdg="20.899999618530273" spe="7.802076816558838" accuracy="7.0" type="begin" />
+		<wifiap bssid="28c68e745e8a" md5essid="9de37a627c25684fdd519ca8473e34" ssid="mmmm" capa="[WPS][ESS]" ss="-80" ntiu="2472"/>
+		<wifiap bssid="0003527587d3" md5essid="82da76e6a975f435972875c8092a14" ssid="ap01-0bd" capa="[WPA2-PSK-CCMP][ESS]" ss="-80" ntiu="2472"/>
+		<wifiap bssid="0003527587d2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2472"/>
+		<wifiap bssid="0003527587d0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-81" ntiu="2472"/>
+		<wifiap bssid="90f65233440a" md5essid="d164818cf198dbeb7057c3655381cde" ssid="navvis demo" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2452"/>
+		<wifiap bssid="001e69e874f3" md5essid="f5a87e29a560b5a6486edba4711758d5" ssid="thom_d009689" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-87" ntiu="2422"/>
+		<wifiap bssid="e8de27ff01cb" md5essid="d0f22987607584b2568cc3f883efe58" ssid="04f12c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="0003525b8a92" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="0003525b8a94" md5essid="9b9c2b7cbd7ab18f7adf3664dcb780a8" ssid="ap03-1be" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="0003525b8a93" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="0024a514e59a" md5essid="082f6722764c65438e8aacd6a1a99" ssid="ls45" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-83" ntiu="2422"/>
+		<wifiap bssid="b0487adf64b8" md5essid="2dbbeed9392e7d8df0426d364332052" ssid="lst. controlling" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-69" ntiu="2427"/>
+		<wifiap bssid="3431c4833934" md5essid="58bf511bbd25b580c11a91e0a7e879c0" ssid="jodocus3" capa="[WPA2-PSK-CCMP][ESS]" ss="-74" ntiu="2462"/>
+		<wifiap bssid="001e69e61853" md5essid="7d0876261b410e68588d34d764518e" ssid="thomson" capa="[WPA2-PSK-TKIP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="f0d1a90ce394" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2437"/>
+		<wifiap bssid="1cc63c6f3176" md5essid="a8261c3bc29bdbebaa1e4b73aea1f269" ssid="alice-wlan64" capa="[WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-90" ntiu="2442"/>
+		<wifiap bssid="0003525b8a90" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="c02506a0cf44" md5essid="9ffdb33ef5802146e555cf9e1082e314" ssid="oms" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="80ea96ec5c29" md5essid="6ae608321df12cb19a62d94788088cc" ssid="oms wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-77" ntiu="5260"/>
+		<wifiap bssid="386077d21a65" md5essid="d0f22987607584b2568cc3f883efe58" ssid="04f12c" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="3431c4833935" md5essid="58bf511bbd25b580c11a91e0a7e879c0" ssid="jodocus3" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="5180"/>
+		<wifiap bssid="80ea96ec5c28" md5essid="6ae608321df12cb19a62d94788088cc" ssid="oms wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2462"/>
+		<wifiap bssid="3481c41b4c2c" md5essid="432d863e2c83f5c059168bb5e539931" ssid="stueberlimersten" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="5180"/>
+		<wifiap bssid="88252cfa708e" md5essid="9b2e1bee488bfb8602327ac7c4662a" ssid="wlan-fa7030" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-79" ntiu="2437"/>
+		<wifiap bssid="1883bf2bc2d8" md5essid="164d542824ef9f523547498f792ad22" ssid="o2-wlan44" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-80" ntiu="2457"/>
+		<wifiap bssid="c0250659553b" md5essid="7a7dd2fddcf479f336b9728d559b9c9" ssid="sucht euch ein eigenes wlan!" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-80" ntiu="2412"/>
+		<wifiap bssid="1883bf2f610d" md5essid="196bcfdb9b59c0c6a7ec8498aedb349" ssid="o2-wlan29" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-84" ntiu="2452"/>
+		<wifiap bssid="28cfe985443a" md5essid="ed72e38ab0eaed24e226da6b73dbc52" ssid="wifi 2" capa="[WPA2-PSK-CCMP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="c0250620c495" md5essid="d4829c119d114d466311ddb5dd54e4e" ssid="fritz!box wlan 3170" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="20c9d0a66dc4" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="3431c41afd85" md5essid="9ffdb33ef5802146e555cf9e1082e314" ssid="oms" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2412"/>
+		<wifiap bssid="1cc63c989291" md5essid="a9f92cf91644593b11940fe73ffa3" ssid="wlan-989237" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2412"/>
+		<wifiap bssid="20c9d01b3a8b" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2437"/>
+		<wifiap bssid="881fa142f3c2" md5essid="5f27dde1bfa8adadfd122521ba1ef" ssid="wifi" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2437"/>
+		<wifiap bssid="3481c4143825" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA2-PSK-CCMP][ESS]" ss="-70" ntiu="2462"/>
+		<wifiap bssid="fc94e3026676" md5essid="26443a9ebd46e3545489c71699a0dc" ssid="thom_d0045291" capa="[WPA2-PSK-CCMP+TKIP][ESS]" ss="-86" ntiu="2447"/>
+		<wifiap bssid="0003525b87d3" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-86" ntiu="2432"/>
+		<wifiap bssid="00255ec735b0" md5essid="305d4b3b92b9d4691799749983c6e4" ssid="alice-wlanaf" capa="[WPA-PSK-TKIP][WPS][ESS]" ss="-88" ntiu="2452"/>
+		<wifiap bssid="849ca67fc759" md5essid="1f2d8f19bcb819e6653235c30faa7" ssid="pepe-nietnagel" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-89" ntiu="2432"/>
+		<wifiap bssid="34080425b4b4" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-90" ntiu="2427"/>
+		<wifiap bssid="6c709fe173fe" md5essid="8a1e1b4c2562dd0c399cf972cef66" ssid="twentyfour" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="000f6506f8f8" md5essid="f8d074cdd2da94fa935ede15dfacdee" ssid="tizi.tv 12531" capa="[ESS]" ss="-71" ntiu="2422"/>
+		<wifiap bssid="3481c41b4c2b" md5essid="432d863e2c83f5c059168bb5e539931" ssid="stueberlimersten" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="3681c41b4c2b" md5essid="f7ba2a95913a925d1e55db921416c55" ssid="stueberlgastzugang" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-66" ntiu="2412"/>
+		<wifiap bssid="1883bf2cf7a8" md5essid="21948453b1723f75de9762841b0ee" ssid="easybox-2cf760" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-80" ntiu="2452"/>
+		<wifiap bssid="984be1264cb2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="984be1264cb4" md5essid="5c6cb98021e33731a2c30e06c83766c" ssid="ap02-1bf" capa="[WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="984be1264cb5" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="5c353bf500c4" md5essid="1ff5b07d3acd128b385fc94b7d8a562" ssid="i can hear you having sex" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="84a8e46400c6" md5essid="7aaa77d8ea2b87ab9e37b5ccbbe7139f" ssid="wlan-00c691" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="e8de2758a4e2" md5essid="193d369197341beb3418887352b2a59f" ssid="kp-link" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="9072402232e4" md5essid="f689305c395731d325ee3d998eef8019" ssid="bernds wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="507e5da0ca27" md5essid="668e7286d4fd261d9428be41eb23e5" ssid="wlan-a0ca31" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="2465117e7b81" md5essid="22118276f5b98c97c7a74a94d57364" ssid="regina" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2412"/>
+		<wifiap bssid="d85d4c9c0ee6" md5essid="265689cd42376fa9a836e7fbb516497d" ssid="tp-link_9c0ee6" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="04353bf500c6" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="984be1264cb0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="647002f73e8c" md5essid="ad938fc459e89f7274e73529554bb3" ssid="task4th" capa="[WPA2-PSK-CCMP][ESS]" ss="-72" ntiu="2462"/>
+		<wifiap bssid="0896d7d49a96" md5essid="414e4f9f7b4bfc9684d58c3181f2d6" ssid="ipanema" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-72" ntiu="2462"/>
+		<wifiap bssid="82c7a656e377" md5essid="414e4f9f7b4bfc9684d58c3181f2d6" ssid="ipanema" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-73" ntiu="2462"/>
+		<wifiap bssid="021599ebb298" md5essid="5aeb13c863e69019b829d57cfc5c70b3" ssid="direct-3tc460 series" capa="[WPA2-PSK-CCMP][WPS-AUTH][ESS]" ss="-78" ntiu="2412"/>
+		<wifiap bssid="3431c413b225" md5essid="b3367edc3c73b2bcb2c9ff3666d70" ssid="hfp - fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2412"/>
+		<wifiap bssid="743170885f4d" md5essid="14f1ad22d4d605f4dde7ba0dddab2f" ssid="wlan-885f49" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="3431c419086e" md5essid="3177a4822e13dfdf0b65fb9faa73981" ssid="sexy_hamster" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="507e5d7aca4c" md5essid="6abe0e0f08bffd5c056a967f7b6f2" ssid="easybox-7aca58" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-81" ntiu="2427"/>
+		<wifiap bssid="24dec60fe4c0" md5essid="43a115647cc6c283519e45188bf2f54c" ssid="apa04-1bf" capa="[WPA2-EAP-CCMP][ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="24dec60fe4c3" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="0896d79d024b" md5essid="38ea539a161c79f35824e5bc1ac5d6" ssid="fritz!wlan repeater 300e" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="2e6511b121c0" md5essid="f7ba2a95913a925d1e55db921416c55" ssid="stueberlgastzugang" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2412"/>
+		<wifiap bssid="24dec60fe4c1" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd4" md5essid="6ecdd7b434205164df445437bcd1db79" ssid="ap02-3bf" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd6" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2472"/>
+		<wifiap bssid="841b5ed3e4a4" md5essid="30e483ffe59da15ea5ec9350fb8be876" ssid="netgear1806" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="90f65272f63c" md5essid="bb6da3e880f58127ec39af5278e601a" ssid="cefs-seminarraum" capa="[WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-87" ntiu="2452"/>
+		<wifiap bssid="c04a0053b87a" md5essid="f9a3eca6dde789d683a2ea2d13bca68a" ssid="tp-link_53b87a" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-78" ntiu="2472"/>
+		<wifiap bssid="b6487a88df5a" md5essid="8a2676d37c9d117941fe6f6aa656e9b" ssid="connectify-me" capa="[WPA2-PSK-CCMP][ESS]" ss="-91" ntiu="2437"/>
+		<wifiap bssid="0e96d7b3f417" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-87" ntiu="2462"/>
+		<wifiap bssid="001a4f166c93" md5essid="91774f28995c6c11a1b673ec66159ede" ssid="winkelvoss" capa="[WPA2-PSK-CCMP][ESS]" ss="-92" ntiu="2472"/>
+		<wifiap bssid="0019cb4f27e0" md5essid="354577a6b79de3134de1a50cff508d" ssid="o2dsl" capa="[WEP][ESS]" ss="-77" ntiu="2412"/>
+		<wifiap bssid="24dec60fe4c2" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="c40415489376" md5essid="23d186e818db6a51f3b94d271b385f" ssid="netgear03" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="0024a8a6e2b3" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="2432"/>
+		<wifiap bssid="0024a8a6e2b4" md5essid="e8da30ca80d9a924ac374db33c9f1" ssid="ap09-1b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-75" ntiu="2432"/>
+		<wifiap bssid="08863bb91a96" md5essid="50efd8f93ad9c11842842559f47d535d" ssid="belkin.a96" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="0024a8a6e2b2" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="2432"/>
+		<wifiap bssid="000f611f6d22" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-76" ntiu="2472"/>
+		<wifiap bssid="000f611f6d24" md5essid="bf5b0f794e9d24f982238e5a7885b30" ssid="ap03-1b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2472"/>
+		<wifiap bssid="24dec60fef81" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-82" ntiu="2412"/>
+		<wifiap bssid="000f611f6d23" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-82" ntiu="2472"/>
+		<wifiap bssid="0024fe483c35" md5essid="b8c020715323018621778c3a6fc19b8" ssid="maus" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2427"/>
+		<wifiap bssid="9cc7a638bd79" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="a0f3c17a41aa" md5essid="e1fcb163a9a5fe6d7dca55999153bf2" ssid="no free wifi for you!" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2422"/>
+		<wifiap bssid="0024fea0f525" md5essid="e4711af327887ff9d826f8b5638e742" ssid="rareha1" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="28be9b334ee5" md5essid="9b4828ab598dad876aad6fd7041f264" ssid="thom_d0047238" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]" ss="-87" ntiu="2467"/>
+		<wifiap bssid="c04a0040e14e" md5essid="4fd85aa1261c13731936befe31a4650" ssid="tp-link_40e14e" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-90" ntiu="2472"/>
+		<wifiap bssid="0024a8a6e2b0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-77" ntiu="2432"/>
+		<wifiap bssid="022f0fa7b0a0" md5essid="18221b628e6f5088dde07c2752564d" ssid="hpsetup" capa="[IBSS]" ss="-83" ntiu="2457"/>
+		<wifiap bssid="24dec60fd782" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-88" ntiu="2432"/>
+	<gps time="20141130220027" lng="11.56693657" lat="48.15060739" alt="562.0" hdg="20.899999618530273" spe="7.802076816558838" accuracy="7.0" type="end" />
+</scan>
+<scan time="20141130220032">
+	<gps time="20141130220032" lng="11.56724011" lat="48.15095577" alt="562.0" hdg="23.899999618530273" spe="8.10151195526123" accuracy="7.0" type="begin" />
+		<wifiap bssid="3431c4833934" md5essid="58bf511bbd25b580c11a91e0a7e879c0" ssid="jodocus3" capa="[WPA2-PSK-CCMP][ESS]" ss="-74" ntiu="2462"/>
+		<wifiap bssid="001e69e61853" md5essid="7d0876261b410e68588d34d764518e" ssid="thomson" capa="[WPA2-PSK-TKIP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="c02506a0cf44" md5essid="9ffdb33ef5802146e555cf9e1082e314" ssid="oms" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="80ea96ec5c28" md5essid="6ae608321df12cb19a62d94788088cc" ssid="oms wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2462"/>
+		<wifiap bssid="1883bf2f610d" md5essid="196bcfdb9b59c0c6a7ec8498aedb349" ssid="o2-wlan29" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-84" ntiu="2452"/>
+		<wifiap bssid="3481c4143825" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA2-PSK-CCMP][ESS]" ss="-70" ntiu="2462"/>
+		<wifiap bssid="fc94e3026676" md5essid="26443a9ebd46e3545489c71699a0dc" ssid="thom_d0045291" capa="[WPA2-PSK-CCMP+TKIP][ESS]" ss="-86" ntiu="2447"/>
+		<wifiap bssid="6c709fe173fe" md5essid="8a1e1b4c2562dd0c399cf972cef66" ssid="twentyfour" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="3481c41b4c2b" md5essid="432d863e2c83f5c059168bb5e539931" ssid="stueberlimersten" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="3681c41b4c2b" md5essid="f7ba2a95913a925d1e55db921416c55" ssid="stueberlgastzugang" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-66" ntiu="2412"/>
+		<wifiap bssid="1883bf2cf7a8" md5essid="21948453b1723f75de9762841b0ee" ssid="easybox-2cf760" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-80" ntiu="2452"/>
+		<wifiap bssid="984be1264cb2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="984be1264cb4" md5essid="5c6cb98021e33731a2c30e06c83766c" ssid="ap02-1bf" capa="[WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="984be1264cb5" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="5c353bf500c4" md5essid="1ff5b07d3acd128b385fc94b7d8a562" ssid="i can hear you having sex" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="84a8e46400c6" md5essid="7aaa77d8ea2b87ab9e37b5ccbbe7139f" ssid="wlan-00c691" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="e8de2758a4e2" md5essid="193d369197341beb3418887352b2a59f" ssid="kp-link" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="9072402232e4" md5essid="f689305c395731d325ee3d998eef8019" ssid="bernds wlan-netzwerk" capa="[WPA2-PSK-CCMP][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="507e5da0ca27" md5essid="668e7286d4fd261d9428be41eb23e5" ssid="wlan-a0ca31" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="2465117e7b81" md5essid="22118276f5b98c97c7a74a94d57364" ssid="regina" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2412"/>
+		<wifiap bssid="d85d4c9c0ee6" md5essid="265689cd42376fa9a836e7fbb516497d" ssid="tp-link_9c0ee6" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="04353bf500c6" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="984be1264cb0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="647002f73e8c" md5essid="ad938fc459e89f7274e73529554bb3" ssid="task4th" capa="[WPA2-PSK-CCMP][ESS]" ss="-72" ntiu="2462"/>
+		<wifiap bssid="0896d7d49a96" md5essid="414e4f9f7b4bfc9684d58c3181f2d6" ssid="ipanema" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-72" ntiu="2462"/>
+		<wifiap bssid="82c7a656e377" md5essid="414e4f9f7b4bfc9684d58c3181f2d6" ssid="ipanema" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-73" ntiu="2462"/>
+		<wifiap bssid="3431c413b225" md5essid="b3367edc3c73b2bcb2c9ff3666d70" ssid="hfp - fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2412"/>
+		<wifiap bssid="743170885f4d" md5essid="14f1ad22d4d605f4dde7ba0dddab2f" ssid="wlan-885f49" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="3431c419086e" md5essid="3177a4822e13dfdf0b65fb9faa73981" ssid="sexy_hamster" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="507e5d7aca4c" md5essid="6abe0e0f08bffd5c056a967f7b6f2" ssid="easybox-7aca58" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-81" ntiu="2427"/>
+		<wifiap bssid="24dec60fe4c0" md5essid="43a115647cc6c283519e45188bf2f54c" ssid="apa04-1bf" capa="[WPA2-EAP-CCMP][ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="24dec60fe4c3" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="0896d79d024b" md5essid="38ea539a161c79f35824e5bc1ac5d6" ssid="fritz!wlan repeater 300e" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="2e6511b121c0" md5essid="f7ba2a95913a925d1e55db921416c55" ssid="stueberlgastzugang" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2412"/>
+		<wifiap bssid="24dec60fe4c1" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd4" md5essid="6ecdd7b434205164df445437bcd1db79" ssid="ap02-3bf" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd6" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2472"/>
+		<wifiap bssid="841b5ed3e4a4" md5essid="30e483ffe59da15ea5ec9350fb8be876" ssid="netgear1806" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="90f65272f63c" md5essid="bb6da3e880f58127ec39af5278e601a" ssid="cefs-seminarraum" capa="[WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-87" ntiu="2452"/>
+		<wifiap bssid="c04a0053b87a" md5essid="f9a3eca6dde789d683a2ea2d13bca68a" ssid="tp-link_53b87a" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-78" ntiu="2472"/>
+		<wifiap bssid="b6487a88df5a" md5essid="8a2676d37c9d117941fe6f6aa656e9b" ssid="connectify-me" capa="[WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="0e96d7b3f417" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-87" ntiu="2462"/>
+		<wifiap bssid="001a4f166c93" md5essid="91774f28995c6c11a1b673ec66159ede" ssid="winkelvoss" capa="[WPA2-PSK-CCMP][ESS]" ss="-92" ntiu="2472"/>
+		<wifiap bssid="0019cb4f27e0" md5essid="354577a6b79de3134de1a50cff508d" ssid="o2dsl" capa="[WEP][ESS]" ss="-77" ntiu="2412"/>
+		<wifiap bssid="24dec60fe4c2" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="c40415489376" md5essid="23d186e818db6a51f3b94d271b385f" ssid="netgear03" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="0024a8a6e2b3" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="2432"/>
+		<wifiap bssid="0024a8a6e2b4" md5essid="e8da30ca80d9a924ac374db33c9f1" ssid="ap09-1b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-75" ntiu="2432"/>
+		<wifiap bssid="08863bb91a96" md5essid="50efd8f93ad9c11842842559f47d535d" ssid="belkin.a96" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="0024a8a6e2b2" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="2432"/>
+		<wifiap bssid="000f611f6d22" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-76" ntiu="2472"/>
+		<wifiap bssid="000f611f6d24" md5essid="bf5b0f794e9d24f982238e5a7885b30" ssid="ap03-1b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2472"/>
+		<wifiap bssid="24dec60fef81" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-82" ntiu="2412"/>
+		<wifiap bssid="000f611f6d23" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-82" ntiu="2472"/>
+		<wifiap bssid="0024fe483c35" md5essid="b8c020715323018621778c3a6fc19b8" ssid="maus" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2427"/>
+		<wifiap bssid="9cc7a638bd79" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="a0f3c17a41aa" md5essid="e1fcb163a9a5fe6d7dca55999153bf2" ssid="no free wifi for you!" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2422"/>
+		<wifiap bssid="0024fea0f525" md5essid="e4711af327887ff9d826f8b5638e742" ssid="rareha1" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="28be9b334ee5" md5essid="9b4828ab598dad876aad6fd7041f264" ssid="thom_d0047238" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]" ss="-74" ntiu="2467"/>
+		<wifiap bssid="c04a0040e14e" md5essid="4fd85aa1261c13731936befe31a4650" ssid="tp-link_40e14e" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-90" ntiu="2472"/>
+		<wifiap bssid="0024a8a6e2b0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-77" ntiu="2432"/>
+		<wifiap bssid="022f0fa7b0a0" md5essid="18221b628e6f5088dde07c2752564d" ssid="hpsetup" capa="[IBSS]" ss="-83" ntiu="2457"/>
+		<wifiap bssid="24dec60fd782" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-88" ntiu="2432"/>
+		<wifiap bssid="1883bfaf71b3" md5essid="b74485fd86f69084212c13aeeaa0e6" ssid="c68n72" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-71" ntiu="2412"/>
+		<wifiap bssid="bc0543173f81" md5essid="fb4b961679d9dbab4c3b3bf167c8ce46" ssid="bibele" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="0896d7e90622" md5essid="f27f6f1c7c5cbf4e3e192ea47b8530" ssid="ppp" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2462"/>
+		<wifiap bssid="0003529c9023" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-76" ntiu="2437"/>
+		<wifiap bssid="000352dfac55" md5essid="38edcbf035aff4a7bf8d97b73ba11d" ssid="ap01-4b2" capa="[WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="000352dfac53" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="000352dfac54" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="0003529c9024" md5essid="c0ab7392adda802f6f4b9572da2012a0" ssid="ap02-0b3" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2437"/>
+		<wifiap bssid="0896d7b39b38" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="0003529c9022" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-78" ntiu="2437"/>
+		<wifiap bssid="9c1c12c15d43" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-79" ntiu="2452"/>
+		<wifiap bssid="9c1c12c15d41" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-79" ntiu="2452"/>
+		<wifiap bssid="9c1c12c15d40" md5essid="91c9aaa523662f655e5478f82f23c2c" ssid="apa01-0b3" capa="[WPA2-EAP-CCMP][ESS]" ss="-79" ntiu="2452"/>
+		<wifiap bssid="0896d790701d" md5essid="b9593d6f1e659ea67dc22549f17bd410" ssid="death star canteen" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2472"/>
+		<wifiap bssid="507e5d98ca78" md5essid="68ad6fc267a0f6318010ce2ef531765b" ssid="easybox-98ca52" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-79" ntiu="2422"/>
+		<wifiap bssid="000352dfac52" md5essid="853fa71124f68c8e88d0b233cc67438" ssid="tueihsa" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000352a10503" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-80" ntiu="2437"/>
+		<wifiap bssid="000352a10504" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2437"/>
+		<wifiap bssid="0896d7b7b9b8" md5essid="e8708d5c9b0e5b5f523474fe2d1841" ssid="polenmoni" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2412"/>
+		<wifiap bssid="7c4fb5220ea0" md5essid="cd1c27faf1df1aa7f11149ae1b7e5d8" ssid="alice-wlan97" capa="[WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-81" ntiu="2417"/>
+		<wifiap bssid="9cc7a67a3d68" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2412"/>
+		<wifiap bssid="bc0543459230" md5essid="be5df4a5cf73b564eb77f65981c42a7" ssid="24fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2452"/>
+		<wifiap bssid="0024fe085e59" md5essid="779810a7320d176a827ec65055ca76" ssid="ms089" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="000352a10505" md5essid="bbe9e73db89c7a456716e13fbcdaeac" ssid="ap01-2b2" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="001cf0178c57" md5essid="b9fe2da9ba8c731146c0f9e9a4b845" ssid="vonblume" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="a20543459230" md5essid="e64b47c42e1d59f05bacf2b3e7e507f" ssid="fritz!box gastzugang" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2452"/>
+		<wifiap bssid="9c1c12addd40" md5essid="4588f2bce5e4b94c8f1b66f32c1625e3" ssid="apa01-1b2" capa="[WPA2-EAP-CCMP][ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="9c1c12addd43" md5essid="853fa71124f68c8e88d0b233cc67438" ssid="tueihsa" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="9c1c12addd41" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="000352a10502" md5essid="853fa71124f68c8e88d0b233cc67438" ssid="tueihsa" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2437"/>
+		<wifiap bssid="000352e5eb75" md5essid="fa73e93302a5ea92598cdf6a3f586" ssid="ap01-0b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="000352e5eb72" md5essid="8d5b8cd0ffbb5b79862cfe6634117d9" ssid="lnt" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="000352e5eb74" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="9c1c12addd44" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-85" ntiu="2472"/>
+		<wifiap bssid="2465116d5c04" md5essid="1ae6a0fff3841c01b7679ffe6c58c" ssid="schmidt" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2412"/>
+		<wifiap bssid="9c80dfa965c6" md5essid="29a5547b564b351d6493158375e8e33e" ssid="easybox-a96526" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-85" ntiu="2412"/>
+		<wifiap bssid="0896d7b3e45f" md5essid="7e1530336219c09f6defdd68221a7f35" ssid="wg-luisen63" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="001d1932b467" md5essid="62b5fc5bf2b3e27a2386ebf5c9e31ff4" ssid="wlan-32b476" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-85" ntiu="2417"/>
+		<wifiap bssid="000352e5f264" md5essid="90872cacb9513251a1bcb5f0a3f598e2" ssid="ap02-2b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="c42795bd5658" md5essid="57d231d7e6a6495de716a7646d7e0b3" ssid="tech_d0044460" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="000352e5f263" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="000352e5f262" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-88" ntiu="2437"/>
+		<wifiap bssid="e8de27bc1b0a" md5essid="de8dd2426093fef662ee24e4091d79c" ssid="keep looking" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-89" ntiu="2422"/>
+		<wifiap bssid="001a4f20902e" md5essid="61f941ebc0cf3e9dcd2cc5c8b186763" ssid="jordanbabe" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2462"/>
+		<wifiap bssid="f4b7e2898619" md5essid="6744eaa308873665daff11bbe9a7d9e" ssid="hp-print-19-laserjet 1102" capa="[ESS]" ss="-73" ntiu="2467"/>
+		<wifiap bssid="0003529c9020" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-78" ntiu="2437"/>
+		<wifiap bssid="000352dfac50" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000352e5eb70" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000352a10500" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="9c1c12addd42" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="001644996458" md5essid="cdaabe5a6274b4cd869879b85215a2" ssid="acerprojectorgatewayfest" capa="[ESS]" ss="-84" ntiu="2422"/>
+		<wifiap bssid="000352e5f260" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-88" ntiu="2437"/>
+	<gps time="20141130220032" lng="11.56724011" lat="48.15095577" alt="562.0" hdg="23.899999618530273" spe="8.10151195526123" accuracy="7.0" type="end" />
+</scan>
+<scan time="20141130220039">
+	<gps time="20141130220039" lng="11.56749115" lat="48.15141222" alt="563.0" hdg="21.600000381469727" spe="6.855450630187988" accuracy="7.0" type="begin" />
+		<wifiap bssid="1883bf2f610d" md5essid="196bcfdb9b59c0c6a7ec8498aedb349" ssid="o2-wlan29" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-84" ntiu="2452"/>
+		<wifiap bssid="3481c4143825" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA2-PSK-CCMP][ESS]" ss="-70" ntiu="2462"/>
+		<wifiap bssid="6c709fe173fe" md5essid="8a1e1b4c2562dd0c399cf972cef66" ssid="twentyfour" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="3481c41b4c2b" md5essid="432d863e2c83f5c059168bb5e539931" ssid="stueberlimersten" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="3681c41b4c2b" md5essid="f7ba2a95913a925d1e55db921416c55" ssid="stueberlgastzugang" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-66" ntiu="2412"/>
+		<wifiap bssid="1883bf2cf7a8" md5essid="21948453b1723f75de9762841b0ee" ssid="easybox-2cf760" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-80" ntiu="2452"/>
+		<wifiap bssid="5c353bf500c4" md5essid="1ff5b07d3acd128b385fc94b7d8a562" ssid="i can hear you having sex" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="84a8e46400c6" md5essid="7aaa77d8ea2b87ab9e37b5ccbbe7139f" ssid="wlan-00c691" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="e8de2758a4e2" md5essid="193d369197341beb3418887352b2a59f" ssid="kp-link" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="04353bf500c6" md5essid="e253f721e17be8cac627981777da28fb" ssid="kd wlan hotspot+" capa="[ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="647002f73e8c" md5essid="ad938fc459e89f7274e73529554bb3" ssid="task4th" capa="[WPA2-PSK-CCMP][ESS]" ss="-72" ntiu="2462"/>
+		<wifiap bssid="0896d7d49a96" md5essid="414e4f9f7b4bfc9684d58c3181f2d6" ssid="ipanema" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-72" ntiu="2462"/>
+		<wifiap bssid="82c7a656e377" md5essid="414e4f9f7b4bfc9684d58c3181f2d6" ssid="ipanema" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-73" ntiu="2462"/>
+		<wifiap bssid="3431c413b225" md5essid="b3367edc3c73b2bcb2c9ff3666d70" ssid="hfp - fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2412"/>
+		<wifiap bssid="743170885f4d" md5essid="14f1ad22d4d605f4dde7ba0dddab2f" ssid="wlan-885f49" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="3431c419086e" md5essid="3177a4822e13dfdf0b65fb9faa73981" ssid="sexy_hamster" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="507e5d7aca4c" md5essid="6abe0e0f08bffd5c056a967f7b6f2" ssid="easybox-7aca58" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-81" ntiu="2427"/>
+		<wifiap bssid="24dec60fe4c0" md5essid="43a115647cc6c283519e45188bf2f54c" ssid="apa04-1bf" capa="[WPA2-EAP-CCMP][ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="24dec60fe4c3" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="0896d79d024b" md5essid="38ea539a161c79f35824e5bc1ac5d6" ssid="fritz!wlan repeater 300e" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="2e6511b121c0" md5essid="f7ba2a95913a925d1e55db921416c55" ssid="stueberlgastzugang" capa="[WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2412"/>
+		<wifiap bssid="24dec60fe4c1" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd2" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd4" md5essid="6ecdd7b434205164df445437bcd1db79" ssid="ap02-3bf" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd6" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2472"/>
+		<wifiap bssid="841b5ed3e4a4" md5essid="30e483ffe59da15ea5ec9350fb8be876" ssid="netgear1806" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="90f65272f63c" md5essid="bb6da3e880f58127ec39af5278e601a" ssid="cefs-seminarraum" capa="[WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-87" ntiu="2452"/>
+		<wifiap bssid="c04a0053b87a" md5essid="f9a3eca6dde789d683a2ea2d13bca68a" ssid="tp-link_53b87a" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-78" ntiu="2472"/>
+		<wifiap bssid="b6487a88df5a" md5essid="8a2676d37c9d117941fe6f6aa656e9b" ssid="connectify-me" capa="[WPA2-PSK-CCMP][ESS]" ss="-71" ntiu="2437"/>
+		<wifiap bssid="0e96d7b3f417" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-87" ntiu="2462"/>
+		<wifiap bssid="001a4f166c93" md5essid="91774f28995c6c11a1b673ec66159ede" ssid="winkelvoss" capa="[WPA2-PSK-CCMP][ESS]" ss="-92" ntiu="2472"/>
+		<wifiap bssid="0019cb4f27e0" md5essid="354577a6b79de3134de1a50cff508d" ssid="o2dsl" capa="[WEP][ESS]" ss="-77" ntiu="2412"/>
+		<wifiap bssid="24dec60fe4c2" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="2c4138f45dd0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="c40415489376" md5essid="23d186e818db6a51f3b94d271b385f" ssid="netgear03" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="0024a8a6e2b3" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="2432"/>
+		<wifiap bssid="0024a8a6e2b4" md5essid="e8da30ca80d9a924ac374db33c9f1" ssid="ap09-1b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-75" ntiu="2432"/>
+		<wifiap bssid="08863bb91a96" md5essid="50efd8f93ad9c11842842559f47d535d" ssid="belkin.a96" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="0024a8a6e2b2" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="2432"/>
+		<wifiap bssid="000f611f6d22" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-76" ntiu="2472"/>
+		<wifiap bssid="000f611f6d24" md5essid="bf5b0f794e9d24f982238e5a7885b30" ssid="ap03-1b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2472"/>
+		<wifiap bssid="24dec60fef81" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-82" ntiu="2412"/>
+		<wifiap bssid="000f611f6d23" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-82" ntiu="2472"/>
+		<wifiap bssid="0024fe483c35" md5essid="b8c020715323018621778c3a6fc19b8" ssid="maus" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2427"/>
+		<wifiap bssid="9cc7a638bd79" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="a0f3c17a41aa" md5essid="e1fcb163a9a5fe6d7dca55999153bf2" ssid="no free wifi for you!" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2422"/>
+		<wifiap bssid="0024fea0f525" md5essid="e4711af327887ff9d826f8b5638e742" ssid="rareha1" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="28be9b334ee5" md5essid="9b4828ab598dad876aad6fd7041f264" ssid="thom_d0047238" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]" ss="-83" ntiu="2467"/>
+		<wifiap bssid="c04a0040e14e" md5essid="4fd85aa1261c13731936befe31a4650" ssid="tp-link_40e14e" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-90" ntiu="2472"/>
+		<wifiap bssid="0024a8a6e2b0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-77" ntiu="2432"/>
+		<wifiap bssid="022f0fa7b0a0" md5essid="18221b628e6f5088dde07c2752564d" ssid="hpsetup" capa="[IBSS]" ss="-83" ntiu="2457"/>
+		<wifiap bssid="24dec60fd782" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-88" ntiu="2432"/>
+		<wifiap bssid="1883bfaf71b3" md5essid="b74485fd86f69084212c13aeeaa0e6" ssid="c68n72" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-71" ntiu="2412"/>
+		<wifiap bssid="bc0543173f81" md5essid="fb4b961679d9dbab4c3b3bf167c8ce46" ssid="bibele" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="0896d7e90622" md5essid="f27f6f1c7c5cbf4e3e192ea47b8530" ssid="ppp" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2462"/>
+		<wifiap bssid="0003529c9023" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-67" ntiu="2437"/>
+		<wifiap bssid="000352dfac55" md5essid="38edcbf035aff4a7bf8d97b73ba11d" ssid="ap01-4b2" capa="[WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="000352dfac53" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="000352dfac54" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="0003529c9024" md5essid="c0ab7392adda802f6f4b9572da2012a0" ssid="ap02-0b3" capa="[WPA2-PSK-CCMP][ESS]" ss="-66" ntiu="2437"/>
+		<wifiap bssid="0896d7b39b38" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="0003529c9022" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-66" ntiu="2437"/>
+		<wifiap bssid="9c1c12c15d43" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-81" ntiu="2452"/>
+		<wifiap bssid="9c1c12c15d41" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-82" ntiu="2452"/>
+		<wifiap bssid="9c1c12c15d40" md5essid="91c9aaa523662f655e5478f82f23c2c" ssid="apa01-0b3" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2452"/>
+		<wifiap bssid="0896d790701d" md5essid="b9593d6f1e659ea67dc22549f17bd410" ssid="death star canteen" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2472"/>
+		<wifiap bssid="507e5d98ca78" md5essid="68ad6fc267a0f6318010ce2ef531765b" ssid="easybox-98ca52" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-79" ntiu="2422"/>
+		<wifiap bssid="000352dfac52" md5essid="853fa71124f68c8e88d0b233cc67438" ssid="tueihsa" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000352a10503" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="000352a10504" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2437"/>
+		<wifiap bssid="0896d7b7b9b8" md5essid="e8708d5c9b0e5b5f523474fe2d1841" ssid="polenmoni" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2412"/>
+		<wifiap bssid="7c4fb5220ea0" md5essid="cd1c27faf1df1aa7f11149ae1b7e5d8" ssid="alice-wlan97" capa="[WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-76" ntiu="2417"/>
+		<wifiap bssid="9cc7a67a3d68" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-77" ntiu="2412"/>
+		<wifiap bssid="bc0543459230" md5essid="be5df4a5cf73b564eb77f65981c42a7" ssid="24fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2452"/>
+		<wifiap bssid="0024fe085e59" md5essid="779810a7320d176a827ec65055ca76" ssid="ms089" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-63" ntiu="2437"/>
+		<wifiap bssid="000352a10505" md5essid="bbe9e73db89c7a456716e13fbcdaeac" ssid="ap01-2b2" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="001cf0178c57" md5essid="b9fe2da9ba8c731146c0f9e9a4b845" ssid="vonblume" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="a20543459230" md5essid="e64b47c42e1d59f05bacf2b3e7e507f" ssid="fritz!box gastzugang" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-87" ntiu="2452"/>
+		<wifiap bssid="9c1c12addd40" md5essid="4588f2bce5e4b94c8f1b66f32c1625e3" ssid="apa01-1b2" capa="[WPA2-EAP-CCMP][ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="9c1c12addd43" md5essid="853fa71124f68c8e88d0b233cc67438" ssid="tueihsa" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="9c1c12addd41" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="000352a10502" md5essid="853fa71124f68c8e88d0b233cc67438" ssid="tueihsa" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="000352e5eb75" md5essid="fa73e93302a5ea92598cdf6a3f586" ssid="ap01-0b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="000352e5eb72" md5essid="8d5b8cd0ffbb5b79862cfe6634117d9" ssid="lnt" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="000352e5eb74" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="9c1c12addd44" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-85" ntiu="2472"/>
+		<wifiap bssid="2465116d5c04" md5essid="1ae6a0fff3841c01b7679ffe6c58c" ssid="schmidt" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-69" ntiu="2412"/>
+		<wifiap bssid="9c80dfa965c6" md5essid="29a5547b564b351d6493158375e8e33e" ssid="easybox-a96526" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-65" ntiu="2412"/>
+		<wifiap bssid="0896d7b3e45f" md5essid="7e1530336219c09f6defdd68221a7f35" ssid="wg-luisen63" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="001d1932b467" md5essid="62b5fc5bf2b3e27a2386ebf5c9e31ff4" ssid="wlan-32b476" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-76" ntiu="2417"/>
+		<wifiap bssid="000352e5f264" md5essid="90872cacb9513251a1bcb5f0a3f598e2" ssid="ap02-2b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="c42795bd5658" md5essid="57d231d7e6a6495de716a7646d7e0b3" ssid="tech_d0044460" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="000352e5f263" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="000352e5f262" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-88" ntiu="2437"/>
+		<wifiap bssid="e8de27bc1b0a" md5essid="de8dd2426093fef662ee24e4091d79c" ssid="keep looking" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-89" ntiu="2422"/>
+		<wifiap bssid="001a4f20902e" md5essid="61f941ebc0cf3e9dcd2cc5c8b186763" ssid="jordanbabe" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="f4b7e2898619" md5essid="6744eaa308873665daff11bbe9a7d9e" ssid="hp-print-19-laserjet 1102" capa="[ESS]" ss="-82" ntiu="2467"/>
+		<wifiap bssid="0003529c9020" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-66" ntiu="2437"/>
+		<wifiap bssid="000352dfac50" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000352e5eb70" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000352a10500" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="9c1c12addd42" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="001644996458" md5essid="cdaabe5a6274b4cd869879b85215a2" ssid="acerprojectorgatewayfest" capa="[ESS]" ss="-88" ntiu="2422"/>
+		<wifiap bssid="000352e5f260" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-88" ntiu="2437"/>
+		<wifiap bssid="162d270c4594" md5essid="42d0fda66b7ef932289a1ba5e75c1ae6" ssid="direct-qx-bravia" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-64" ntiu="2412"/>
+		<wifiap bssid="9c80dfa965c4" md5essid="29a5547b564b351d6493158375e8e33e" ssid="easybox-a96526" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-69" ntiu="5180"/>
+		<wifiap bssid="00264d39e703" md5essid="6a56cf908686ecef9c70b3b82650d9f5" ssid="brunosnet" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-69" ntiu="2412"/>
+		<wifiap bssid="001c287cef77" md5essid="f8c7c8476c6cf527121ec44bb73f3fc" ssid="o2-wlan50" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-70" ntiu="2467"/>
+		<wifiap bssid="0896d7d8d839" md5essid="37ed20f2ed477994868e6a7eef6440dc" ssid="fritz!box 7362 sl" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="8803558107f1" md5essid="d7927cd7c91afd59f179d4a31aa5995" ssid="wlan-397531" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="1883bf2beed9" md5essid="88596cb4a8182c4212f09e5ab7ec9885" ssid="o2-wlan97" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-78" ntiu="2467"/>
+		<wifiap bssid="4494fc58bd50" md5essid="c08c6b5a68cbe86278ff67a3b7742492" ssid="netgear57" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="246511bb44df" md5essid="fbfac990dc95375e379649b79fb223b" ssid="butzenfunke" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="1883bf2c5cf7" md5essid="f1799db2abb2416a4fe84f4c4fa9228" ssid="o2-wlan79" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-80" ntiu="2437"/>
+		<wifiap bssid="0896d73d8d10" md5essid="13e47fc5cba5fbe5fd91e37842f3178" ssid="schaurigesschabrackenschaf" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="bc05439654af" md5essid="5d889dd8fdb64d80fc9af0f8543ef6e" ssid="fritz!box fon wlan 7270" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2452"/>
+		<wifiap bssid="88035561c513" md5essid="43b353ac804c24431c12db14e1d7d7" ssid="wlan-632729" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-86" ntiu="2462"/>
+		<wifiap bssid="0896d701901f" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2472"/>
+		<wifiap bssid="9c1c12c15d42" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-82" ntiu="2452"/>
+	<gps time="20141130220039" lng="11.56749115" lat="48.15141222" alt="563.0" hdg="21.600000381469727" spe="6.855450630187988" accuracy="7.0" type="end" />
+</scan>
+<scan time="20141130220045">
+	<gps time="20141130220045" lng="11.56771079" lat="48.15179711" alt="562.0" hdg="22.100000381469727" spe="7.860158920288086" accuracy="6.0" type="begin" />
+		<wifiap bssid="1883bf2f610d" md5essid="196bcfdb9b59c0c6a7ec8498aedb349" ssid="o2-wlan29" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-84" ntiu="2452"/>
+		<wifiap bssid="e8de2758a4e2" md5essid="193d369197341beb3418887352b2a59f" ssid="kp-link" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="647002f73e8c" md5essid="ad938fc459e89f7274e73529554bb3" ssid="task4th" capa="[WPA2-PSK-CCMP][ESS]" ss="-72" ntiu="2462"/>
+		<wifiap bssid="743170885f4d" md5essid="14f1ad22d4d605f4dde7ba0dddab2f" ssid="wlan-885f49" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="3431c419086e" md5essid="3177a4822e13dfdf0b65fb9faa73981" ssid="sexy_hamster" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="0896d79d024b" md5essid="38ea539a161c79f35824e5bc1ac5d6" ssid="fritz!wlan repeater 300e" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="841b5ed3e4a4" md5essid="30e483ffe59da15ea5ec9350fb8be876" ssid="netgear1806" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="c04a0053b87a" md5essid="f9a3eca6dde789d683a2ea2d13bca68a" ssid="tp-link_53b87a" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-78" ntiu="2472"/>
+		<wifiap bssid="b6487a88df5a" md5essid="8a2676d37c9d117941fe6f6aa656e9b" ssid="connectify-me" capa="[WPA2-PSK-CCMP][ESS]" ss="-79" ntiu="2437"/>
+		<wifiap bssid="0e96d7b3f417" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-87" ntiu="2462"/>
+		<wifiap bssid="0019cb4f27e0" md5essid="354577a6b79de3134de1a50cff508d" ssid="o2dsl" capa="[WEP][ESS]" ss="-77" ntiu="2412"/>
+		<wifiap bssid="c40415489376" md5essid="23d186e818db6a51f3b94d271b385f" ssid="netgear03" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="0024a8a6e2b3" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="2432"/>
+		<wifiap bssid="0024a8a6e2b4" md5essid="e8da30ca80d9a924ac374db33c9f1" ssid="ap09-1b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-75" ntiu="2432"/>
+		<wifiap bssid="08863bb91a96" md5essid="50efd8f93ad9c11842842559f47d535d" ssid="belkin.a96" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="0024a8a6e2b2" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-75" ntiu="2432"/>
+		<wifiap bssid="000f611f6d22" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-76" ntiu="2472"/>
+		<wifiap bssid="000f611f6d24" md5essid="bf5b0f794e9d24f982238e5a7885b30" ssid="ap03-1b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-78" ntiu="2472"/>
+		<wifiap bssid="24dec60fef81" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-82" ntiu="2412"/>
+		<wifiap bssid="000f611f6d23" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-82" ntiu="2472"/>
+		<wifiap bssid="0024fe483c35" md5essid="b8c020715323018621778c3a6fc19b8" ssid="maus" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2427"/>
+		<wifiap bssid="9cc7a638bd79" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="a0f3c17a41aa" md5essid="e1fcb163a9a5fe6d7dca55999153bf2" ssid="no free wifi for you!" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2422"/>
+		<wifiap bssid="0024fea0f525" md5essid="e4711af327887ff9d826f8b5638e742" ssid="rareha1" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="28be9b334ee5" md5essid="9b4828ab598dad876aad6fd7041f264" ssid="thom_d0047238" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]" ss="-87" ntiu="2467"/>
+		<wifiap bssid="c04a0040e14e" md5essid="4fd85aa1261c13731936befe31a4650" ssid="tp-link_40e14e" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-90" ntiu="2472"/>
+		<wifiap bssid="0024a8a6e2b0" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-77" ntiu="2432"/>
+		<wifiap bssid="022f0fa7b0a0" md5essid="18221b628e6f5088dde07c2752564d" ssid="hpsetup" capa="[IBSS]" ss="-83" ntiu="2457"/>
+		<wifiap bssid="24dec60fd782" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-88" ntiu="2432"/>
+		<wifiap bssid="1883bfaf71b3" md5essid="b74485fd86f69084212c13aeeaa0e6" ssid="c68n72" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-71" ntiu="2412"/>
+		<wifiap bssid="bc0543173f81" md5essid="fb4b961679d9dbab4c3b3bf167c8ce46" ssid="bibele" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="0896d7e90622" md5essid="f27f6f1c7c5cbf4e3e192ea47b8530" ssid="ppp" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2462"/>
+		<wifiap bssid="0003529c9023" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-67" ntiu="2437"/>
+		<wifiap bssid="000352dfac55" md5essid="38edcbf035aff4a7bf8d97b73ba11d" ssid="ap01-4b2" capa="[WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="000352dfac53" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="000352dfac54" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="0003529c9024" md5essid="c0ab7392adda802f6f4b9572da2012a0" ssid="ap02-0b3" capa="[WPA2-PSK-CCMP][ESS]" ss="-66" ntiu="2437"/>
+		<wifiap bssid="0896d7b39b38" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="0003529c9022" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-66" ntiu="2437"/>
+		<wifiap bssid="9c1c12c15d43" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-81" ntiu="2452"/>
+		<wifiap bssid="9c1c12c15d41" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-82" ntiu="2452"/>
+		<wifiap bssid="9c1c12c15d40" md5essid="91c9aaa523662f655e5478f82f23c2c" ssid="apa01-0b3" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2452"/>
+		<wifiap bssid="0896d790701d" md5essid="b9593d6f1e659ea67dc22549f17bd410" ssid="death star canteen" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2472"/>
+		<wifiap bssid="507e5d98ca78" md5essid="68ad6fc267a0f6318010ce2ef531765b" ssid="easybox-98ca52" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-79" ntiu="2422"/>
+		<wifiap bssid="000352dfac52" md5essid="853fa71124f68c8e88d0b233cc67438" ssid="tueihsa" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000352a10503" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="000352a10504" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2437"/>
+		<wifiap bssid="0896d7b7b9b8" md5essid="e8708d5c9b0e5b5f523474fe2d1841" ssid="polenmoni" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2412"/>
+		<wifiap bssid="7c4fb5220ea0" md5essid="cd1c27faf1df1aa7f11149ae1b7e5d8" ssid="alice-wlan97" capa="[WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-76" ntiu="2417"/>
+		<wifiap bssid="9cc7a67a3d68" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-77" ntiu="2412"/>
+		<wifiap bssid="bc0543459230" md5essid="be5df4a5cf73b564eb77f65981c42a7" ssid="24fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2452"/>
+		<wifiap bssid="0024fe085e59" md5essid="779810a7320d176a827ec65055ca76" ssid="ms089" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-63" ntiu="2437"/>
+		<wifiap bssid="000352a10505" md5essid="bbe9e73db89c7a456716e13fbcdaeac" ssid="ap01-2b2" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="001cf0178c57" md5essid="b9fe2da9ba8c731146c0f9e9a4b845" ssid="vonblume" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="a20543459230" md5essid="e64b47c42e1d59f05bacf2b3e7e507f" ssid="fritz!box gastzugang" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-87" ntiu="2452"/>
+		<wifiap bssid="9c1c12addd40" md5essid="4588f2bce5e4b94c8f1b66f32c1625e3" ssid="apa01-1b2" capa="[WPA2-EAP-CCMP][ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="9c1c12addd43" md5essid="853fa71124f68c8e88d0b233cc67438" ssid="tueihsa" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="9c1c12addd41" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="000352a10502" md5essid="853fa71124f68c8e88d0b233cc67438" ssid="tueihsa" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="000352e5eb75" md5essid="fa73e93302a5ea92598cdf6a3f586" ssid="ap01-0b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="000352e5eb72" md5essid="8d5b8cd0ffbb5b79862cfe6634117d9" ssid="lnt" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="000352e5eb74" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="9c1c12addd44" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-85" ntiu="2472"/>
+		<wifiap bssid="2465116d5c04" md5essid="1ae6a0fff3841c01b7679ffe6c58c" ssid="schmidt" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-69" ntiu="2412"/>
+		<wifiap bssid="9c80dfa965c6" md5essid="29a5547b564b351d6493158375e8e33e" ssid="easybox-a96526" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-65" ntiu="2412"/>
+		<wifiap bssid="0896d7b3e45f" md5essid="7e1530336219c09f6defdd68221a7f35" ssid="wg-luisen63" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="001d1932b467" md5essid="62b5fc5bf2b3e27a2386ebf5c9e31ff4" ssid="wlan-32b476" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-82" ntiu="2417"/>
+		<wifiap bssid="000352e5f264" md5essid="90872cacb9513251a1bcb5f0a3f598e2" ssid="ap02-2b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="c42795bd5658" md5essid="57d231d7e6a6495de716a7646d7e0b3" ssid="tech_d0044460" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="000352e5f263" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="000352e5f262" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-88" ntiu="2437"/>
+		<wifiap bssid="e8de27bc1b0a" md5essid="de8dd2426093fef662ee24e4091d79c" ssid="keep looking" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-89" ntiu="2422"/>
+		<wifiap bssid="001a4f20902e" md5essid="61f941ebc0cf3e9dcd2cc5c8b186763" ssid="jordanbabe" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="f4b7e2898619" md5essid="6744eaa308873665daff11bbe9a7d9e" ssid="hp-print-19-laserjet 1102" capa="[ESS]" ss="-82" ntiu="2467"/>
+		<wifiap bssid="0003529c9020" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-66" ntiu="2437"/>
+		<wifiap bssid="000352dfac50" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000352e5eb70" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000352a10500" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="9c1c12addd42" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="001644996458" md5essid="cdaabe5a6274b4cd869879b85215a2" ssid="acerprojectorgatewayfest" capa="[ESS]" ss="-88" ntiu="2422"/>
+		<wifiap bssid="000352e5f260" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-88" ntiu="2437"/>
+		<wifiap bssid="162d270c4594" md5essid="42d0fda66b7ef932289a1ba5e75c1ae6" ssid="direct-qx-bravia" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-64" ntiu="2412"/>
+		<wifiap bssid="9c80dfa965c4" md5essid="29a5547b564b351d6493158375e8e33e" ssid="easybox-a96526" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-69" ntiu="5180"/>
+		<wifiap bssid="00264d39e703" md5essid="6a56cf908686ecef9c70b3b82650d9f5" ssid="brunosnet" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-69" ntiu="2412"/>
+		<wifiap bssid="001c287cef77" md5essid="f8c7c8476c6cf527121ec44bb73f3fc" ssid="o2-wlan50" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-70" ntiu="2467"/>
+		<wifiap bssid="0896d7d8d839" md5essid="37ed20f2ed477994868e6a7eef6440dc" ssid="fritz!box 7362 sl" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="8803558107f1" md5essid="d7927cd7c91afd59f179d4a31aa5995" ssid="wlan-397531" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="1883bf2beed9" md5essid="88596cb4a8182c4212f09e5ab7ec9885" ssid="o2-wlan97" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-82" ntiu="2467"/>
+		<wifiap bssid="4494fc58bd50" md5essid="c08c6b5a68cbe86278ff67a3b7742492" ssid="netgear57" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="246511bb44df" md5essid="fbfac990dc95375e379649b79fb223b" ssid="butzenfunke" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="1883bf2c5cf7" md5essid="f1799db2abb2416a4fe84f4c4fa9228" ssid="o2-wlan79" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-80" ntiu="2437"/>
+		<wifiap bssid="0896d73d8d10" md5essid="13e47fc5cba5fbe5fd91e37842f3178" ssid="schaurigesschabrackenschaf" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="bc05439654af" md5essid="5d889dd8fdb64d80fc9af0f8543ef6e" ssid="fritz!box fon wlan 7270" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2452"/>
+		<wifiap bssid="88035561c513" md5essid="43b353ac804c24431c12db14e1d7d7" ssid="wlan-632729" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="0896d701901f" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2472"/>
+		<wifiap bssid="9c1c12c15d42" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-82" ntiu="2452"/>
+		<wifiap bssid="88f7c79dc9b6" md5essid="216182a1ae4a8013c283b43b1cc3d4" ssid="tech_d0058996" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-60" ntiu="2412"/>
+		<wifiap bssid="880355548ec1" md5essid="a46f58415df5faa2fcf2c6bcbb71bd7" ssid="wlan-509966" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-65" ntiu="2462"/>
+		<wifiap bssid="0896d7872aef" md5essid="1bfdfaef43cb8cd63c7a04b39a3d476" ssid="wifi2" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-67" ntiu="2412"/>
+		<wifiap bssid="849ca6cac191" md5essid="d82a9998d1d1fc74da82ba2336e0" ssid="alice-wlan46" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-69" ntiu="2417"/>
+		<wifiap bssid="8803555ac100" md5essid="ad74e7c09b17bc7f97fb12723e9af5fc" ssid="easybox-5ac148" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-71" ntiu="2417"/>
+		<wifiap bssid="001a4f102991" md5essid="25915445a2bf13eaa688d61cb7f7d8" ssid="wlan-bsd" capa="[WPA-PSK-TKIP][ESS]" ss="-71" ntiu="2422"/>
+		<wifiap bssid="1883bf2b0498" md5essid="ebdf1544f72e17bb4739356bcba8ca" ssid="easybox-2b0406" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-71" ntiu="2427"/>
+		<wifiap bssid="7c4fb5990c59" md5essid="9d212f922ffd4b3dc366148dfbea4f36" ssid="alice-wlan36" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-72" ntiu="2447"/>
+		<wifiap bssid="84a8e49a3dab" md5essid="bbf07f8ca9e67a6f78f2ee5ef4d91f2" ssid="wlan-3dab93" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2457"/>
+		<wifiap bssid="0896d7872af0" md5essid="1bfdfaef43cb8cd63c7a04b39a3d476" ssid="wifi2" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-78" ntiu="5180"/>
+		<wifiap bssid="1883bf0ab575" md5essid="22b29fd1285a92637e683df1df1b42" ssid="gastzugang" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-74" ntiu="2412"/>
+		<wifiap bssid="1883bf2d6a9e" md5essid="d1bdf812523f2f3ce9e87db96a92eeb3" ssid="o2-wlan06" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-74" ntiu="2452"/>
+		<wifiap bssid="8803551aacec" md5essid="442904f21f1a33b1c974696cdaa18b" ssid="alice-wlan18" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-76" ntiu="2447"/>
+		<wifiap bssid="0e96d7586129" md5essid="1bfdfaef43cb8cd63c7a04b39a3d476" ssid="wifi2" capa="[WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2412"/>
+		<wifiap bssid="7c4fb5093d9d" md5essid="f0b33c8b62b26c7defdf23a758d563f2" ssid="alice-wlan92" capa="[WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2417"/>
+		<wifiap bssid="9cc7a6dab898" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="4432c8353dff" md5essid="932be2533bff6e6f1afd6f558338a5e5" ssid="tech_d0053811" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-79" ntiu="2437"/>
+		<wifiap bssid="1883bf900df9" md5essid="cf3cbcbeec7c9b8d9fa769773c254b" ssid="o2-wlan77" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-79" ntiu="2422"/>
+		<wifiap bssid="7e4fb5e0fbcf" md5essid="a61ac670be9a1d81e283f87c9ede30" ssid="easybox-b15a25" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-80" ntiu="2422"/>
+		<wifiap bssid="c0250675b12d" md5essid="ddb18a8f8767a4666019e0ca782f234" ssid="mfs" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="04c06fd64dba" md5essid="e25f3f1795e4d32c4acd1dba1964d1f6" ssid="wlan-4dba17" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="000e8f1f42a3" md5essid="7e4075ef322eb6ce7938cd3bdee5d5" ssid="wlan-477787" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2437"/>
+		<wifiap bssid="7c4fb510da64" md5essid="a5bfbc4accdd346248dc5a8e73781bf" ssid="alice-wlan85" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-84" ntiu="2447"/>
+		<wifiap bssid="386077cca9f2" md5essid="933a442e4b103a617541771112f461d0" ssid="0508fc" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-85" ntiu="2412"/>
+		<wifiap bssid="0896d7d3014a" md5essid="37ed20f2ed477994868e6a7eef6440dc" ssid="fritz!box 7362 sl" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2412"/>
+		<wifiap bssid="021a2a35282e" md5essid="b0409261b34c13e541d968b9abe74e34" ssid="arcor-ca2e10" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][ESS]" ss="-85" ntiu="2452"/>
+		<wifiap bssid="001a2b1a6fe9" md5essid="d8a4b4a5d73d8367aa612544d7315c" ssid="wlan-1a6f01" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-86" ntiu="2472"/>
+		<wifiap bssid="7431700fce7a" md5essid="346c74f35ba3e0b6f63da78d17ac87a" ssid="alice-wlan15" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-86" ntiu="2447"/>
+		<wifiap bssid="9cc7a66d4a60" md5essid="3ea4eda0577640898de642303082fcb8" ssid="die7noc" capa="[WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2442"/>
+		<wifiap bssid="00230817e5c8" md5essid="4f9aad5ef7c5324e73d53369949c3283" ssid="arcor-17e554" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][ESS]" ss="-87" ntiu="2452"/>
+	<gps time="20141130220045" lng="11.56771079" lat="48.15179711" alt="562.0" hdg="22.100000381469727" spe="7.860158920288086" accuracy="6.0" type="end" />
+</scan>
+<scan time="20141130220051">
+	<gps time="20141130220051" lng="11.56789112" lat="48.15216191" alt="561.0" hdg="25.100000381469727" spe="5.9765543937683105" accuracy="7.0" type="begin" />
+		<wifiap bssid="b6487a88df5a" md5essid="8a2676d37c9d117941fe6f6aa656e9b" ssid="connectify-me" capa="[WPA2-PSK-CCMP][ESS]" ss="-79" ntiu="2437"/>
+		<wifiap bssid="c40415489376" md5essid="23d186e818db6a51f3b94d271b385f" ssid="netgear03" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-73" ntiu="2412"/>
+		<wifiap bssid="28be9b334ee5" md5essid="9b4828ab598dad876aad6fd7041f264" ssid="thom_d0047238" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]" ss="-87" ntiu="2467"/>
+		<wifiap bssid="1883bfaf71b3" md5essid="b74485fd86f69084212c13aeeaa0e6" ssid="c68n72" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-71" ntiu="2412"/>
+		<wifiap bssid="bc0543173f81" md5essid="fb4b961679d9dbab4c3b3bf167c8ce46" ssid="bibele" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="0896d7e90622" md5essid="f27f6f1c7c5cbf4e3e192ea47b8530" ssid="ppp" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2462"/>
+		<wifiap bssid="0003529c9023" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-67" ntiu="2437"/>
+		<wifiap bssid="000352dfac55" md5essid="38edcbf035aff4a7bf8d97b73ba11d" ssid="ap01-4b2" capa="[WPA2-PSK-CCMP][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="000352dfac53" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="000352dfac54" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-77" ntiu="2462"/>
+		<wifiap bssid="0003529c9024" md5essid="c0ab7392adda802f6f4b9572da2012a0" ssid="ap02-0b3" capa="[WPA2-PSK-CCMP][ESS]" ss="-66" ntiu="2437"/>
+		<wifiap bssid="0896d7b39b38" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-78" ntiu="2462"/>
+		<wifiap bssid="0003529c9022" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-66" ntiu="2437"/>
+		<wifiap bssid="9c1c12c15d43" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-81" ntiu="2452"/>
+		<wifiap bssid="9c1c12c15d41" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-82" ntiu="2452"/>
+		<wifiap bssid="9c1c12c15d40" md5essid="91c9aaa523662f655e5478f82f23c2c" ssid="apa01-0b3" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2452"/>
+		<wifiap bssid="0896d790701d" md5essid="b9593d6f1e659ea67dc22549f17bd410" ssid="death star canteen" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2472"/>
+		<wifiap bssid="507e5d98ca78" md5essid="68ad6fc267a0f6318010ce2ef531765b" ssid="easybox-98ca52" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-79" ntiu="2422"/>
+		<wifiap bssid="000352dfac52" md5essid="853fa71124f68c8e88d0b233cc67438" ssid="tueihsa" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000352a10503" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="000352a10504" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-81" ntiu="2437"/>
+		<wifiap bssid="0896d7b7b9b8" md5essid="e8708d5c9b0e5b5f523474fe2d1841" ssid="polenmoni" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2412"/>
+		<wifiap bssid="7c4fb5220ea0" md5essid="cd1c27faf1df1aa7f11149ae1b7e5d8" ssid="alice-wlan97" capa="[WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-76" ntiu="2417"/>
+		<wifiap bssid="9cc7a67a3d68" md5essid="10d4a97f4ee976ba4efa5fcf8a75813" ssid="fritz!box fon wlan 7360" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-77" ntiu="2412"/>
+		<wifiap bssid="bc0543459230" md5essid="be5df4a5cf73b564eb77f65981c42a7" ssid="24fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2452"/>
+		<wifiap bssid="0024fe085e59" md5essid="779810a7320d176a827ec65055ca76" ssid="ms089" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-63" ntiu="2437"/>
+		<wifiap bssid="000352a10505" md5essid="bbe9e73db89c7a456716e13fbcdaeac" ssid="ap01-2b2" capa="[WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="001cf0178c57" md5essid="b9fe2da9ba8c731146c0f9e9a4b845" ssid="vonblume" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-82" ntiu="2437"/>
+		<wifiap bssid="a20543459230" md5essid="e64b47c42e1d59f05bacf2b3e7e507f" ssid="fritz!box gastzugang" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-87" ntiu="2452"/>
+		<wifiap bssid="9c1c12addd40" md5essid="4588f2bce5e4b94c8f1b66f32c1625e3" ssid="apa01-1b2" capa="[WPA2-EAP-CCMP][ESS]" ss="-83" ntiu="2472"/>
+		<wifiap bssid="9c1c12addd43" md5essid="853fa71124f68c8e88d0b233cc67438" ssid="tueihsa" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="9c1c12addd41" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="000352a10502" md5essid="853fa71124f68c8e88d0b233cc67438" ssid="tueihsa" capa="[WPA-EAP-TKIP][WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2437"/>
+		<wifiap bssid="000352e5eb75" md5essid="fa73e93302a5ea92598cdf6a3f586" ssid="ap01-0b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="000352e5eb72" md5essid="8d5b8cd0ffbb5b79862cfe6634117d9" ssid="lnt" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-84" ntiu="2462"/>
+		<wifiap bssid="000352e5eb74" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="9c1c12addd44" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP+TKIP][ESS]" ss="-85" ntiu="2472"/>
+		<wifiap bssid="2465116d5c04" md5essid="1ae6a0fff3841c01b7679ffe6c58c" ssid="schmidt" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-69" ntiu="2412"/>
+		<wifiap bssid="9c80dfa965c6" md5essid="29a5547b564b351d6493158375e8e33e" ssid="easybox-a96526" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-65" ntiu="2412"/>
+		<wifiap bssid="0896d7b3e45f" md5essid="7e1530336219c09f6defdd68221a7f35" ssid="wg-luisen63" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-85" ntiu="2462"/>
+		<wifiap bssid="001d1932b467" md5essid="62b5fc5bf2b3e27a2386ebf5c9e31ff4" ssid="wlan-32b476" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-82" ntiu="2417"/>
+		<wifiap bssid="000352e5f264" md5essid="90872cacb9513251a1bcb5f0a3f598e2" ssid="ap02-2b1" capa="[WPA2-PSK-CCMP][ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="c42795bd5658" md5essid="57d231d7e6a6495de716a7646d7e0b3" ssid="tech_d0044460" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-80" ntiu="2437"/>
+		<wifiap bssid="000352e5f263" md5essid="7bd992dd9ff537cbd0d9af2a3c86a" ssid="eduroam" capa="[WPA2-EAP-CCMP][ESS]" ss="-87" ntiu="2437"/>
+		<wifiap bssid="000352e5f262" md5essid="20babbe5c2331cd7ea956cc61529d60" ssid="mwn-events" capa="[WPA2-EAP-CCMP][ESS]" ss="-88" ntiu="2437"/>
+		<wifiap bssid="e8de27bc1b0a" md5essid="de8dd2426093fef662ee24e4091d79c" ssid="keep looking" capa="[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]" ss="-89" ntiu="2422"/>
+		<wifiap bssid="001a4f20902e" md5essid="61f941ebc0cf3e9dcd2cc5c8b186763" ssid="jordanbabe" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-82" ntiu="2462"/>
+		<wifiap bssid="f4b7e2898619" md5essid="6744eaa308873665daff11bbe9a7d9e" ssid="hp-print-19-laserjet 1102" capa="[ESS]" ss="-82" ntiu="2467"/>
+		<wifiap bssid="0003529c9020" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-66" ntiu="2437"/>
+		<wifiap bssid="000352dfac50" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000352e5eb70" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="000352a10500" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-86" ntiu="2437"/>
+		<wifiap bssid="9c1c12addd42" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-84" ntiu="2472"/>
+		<wifiap bssid="001644996458" md5essid="cdaabe5a6274b4cd869879b85215a2" ssid="acerprojectorgatewayfest" capa="[ESS]" ss="-88" ntiu="2422"/>
+		<wifiap bssid="000352e5f260" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-88" ntiu="2437"/>
+		<wifiap bssid="9c80dfa965c4" md5essid="29a5547b564b351d6493158375e8e33e" ssid="easybox-a96526" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-69" ntiu="5180"/>
+		<wifiap bssid="00264d39e703" md5essid="6a56cf908686ecef9c70b3b82650d9f5" ssid="brunosnet" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][WPS][ESS]" ss="-69" ntiu="2412"/>
+		<wifiap bssid="001c287cef77" md5essid="f8c7c8476c6cf527121ec44bb73f3fc" ssid="o2-wlan50" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-70" ntiu="2467"/>
+		<wifiap bssid="0896d7d8d839" md5essid="37ed20f2ed477994868e6a7eef6440dc" ssid="fritz!box 7362 sl" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-75" ntiu="2412"/>
+		<wifiap bssid="8803558107f1" md5essid="d7927cd7c91afd59f179d4a31aa5995" ssid="wlan-397531" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-76" ntiu="2462"/>
+		<wifiap bssid="1883bf2beed9" md5essid="88596cb4a8182c4212f09e5ab7ec9885" ssid="o2-wlan97" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-82" ntiu="2467"/>
+		<wifiap bssid="4494fc58bd50" md5essid="c08c6b5a68cbe86278ff67a3b7742492" ssid="netgear57" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-70" ntiu="2462"/>
+		<wifiap bssid="246511bb44df" md5essid="fbfac990dc95375e379649b79fb223b" ssid="butzenfunke" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-80" ntiu="2462"/>
+		<wifiap bssid="1883bf2c5cf7" md5essid="f1799db2abb2416a4fe84f4c4fa9228" ssid="o2-wlan79" capa="[WPA2-PSK-CCMP-preauth][WPS][ESS]" ss="-80" ntiu="2437"/>
+		<wifiap bssid="0896d73d8d10" md5essid="13e47fc5cba5fbe5fd91e37842f3178" ssid="schaurigesschabrackenschaf" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-81" ntiu="2462"/>
+		<wifiap bssid="bc05439654af" md5essid="5d889dd8fdb64d80fc9af0f8543ef6e" ssid="fritz!box fon wlan 7270" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-83" ntiu="2452"/>
+		<wifiap bssid="88035561c513" md5essid="43b353ac804c24431c12db14e1d7d7" ssid="wlan-632729" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-79" ntiu="2462"/>
+		<wifiap bssid="0896d701901f" md5essid="d41d8cd98f0b24e980998ecf8427e" ssid="" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]" ss="-89" ntiu="2472"/>
+		<wifiap bssid="9c1c12c15d42" md5essid="f6c19cb1d873b33b48645d52278ecdf2" ssid="lrz" capa="[ESS]" ss="-82" ntiu="2452"/>
+		<wifiap bssid="88f7c79dc9b6" md5essid="216182a1ae4a8013c283b43b1cc3d4" ssid="tech_d0058996" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]" ss="-60" ntiu="2412"/>
+	<gps time="20141130220051" lng="11.56789112" lat="48.15216191" alt="561.0" hdg="25.100000381469727" spe="5.9765543937683105" accuracy="7.0" type="end" />
+</scan>
+</logfile>

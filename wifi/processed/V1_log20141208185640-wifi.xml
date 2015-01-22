@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logfile manufacturer="OnePlus" model="A0001" revision="4.4.4" swid="Radiobeacon" swver="0.8.3" exportver="0.8.3">
+<scan time="20141208185640">
+	<gps time="20141208185640" lng="11.56384702" lat="48.13189336" alt="563.0" hdg="108.5" spe="0.43046486377716064" accuracy="9.0" type="begin" />
+		<wifiap bssid="246511bda40f" md5essid="d9707081931adfb47ba07f971220e4e1" ssid="fritz!box wlan 3270" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-89" ntiu="2452"/>
+		<wifiap bssid="9cc7a634526e" md5essid="2ba3dafe57e6b981946223b926ab35b3" ssid="fritz!box fon wlan 7390" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-89" ntiu="2412"/>
+		<wifiap bssid="02c8403a6d00" md5essid="682c46a5e5867cb8cb44b734858923b7" ssid="carat hotel" capa="[ESS]" ss="-90" ntiu="2422"/>
+		<wifiap bssid="02c8403a6900" md5essid="682c46a5e5867cb8cb44b734858923b7" ssid="carat hotel" capa="[ESS]" ss="-90" ntiu="2422"/>
+	<gps time="20141208185642" lng="11.56382763" lat="48.13192176" alt="565.0" hdg="305.5" spe="0.7910120487213135" accuracy="8.0" type="end" />
+</scan>
+<scan time="20141208185647">
+	<gps time="20141208185647" lng="11.56377367" lat="48.13193268" alt="565.0" hdg="247.10000610351563" spe="0.984123945236206" accuracy="8.0" type="begin" />
+		<wifiap bssid="2465113935de" md5essid="ed29a5959a25eb38af7cb2a2f1e146" ssid="werder" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-91" ntiu="2472"/>
+		<wifiap bssid="3481c41a1deb" md5essid="1b83f1c21ed6611bf871cf68f1de8f" ssid="fritz!box 7490" capa="[WPA2-PSK-CCMP][WPS][ESS]" ss="-89" ntiu="2412"/>
+	<gps time="20141208185647" lng="11.56377367" lat="48.13193268" alt="565.0" hdg="247.10000610351563" spe="0.984123945236206" accuracy="8.0" type="end" />
+</scan>
+</logfile>

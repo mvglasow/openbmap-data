@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logfile manufacturer="OnePlus" model="A0001" revision="4.4.4" swid="Radiobeacon" swver="0.8.3" exportver="0.8.3">
+<scan time="20141123174919">
+	<gps time="20141123174919" lng="11.5825665" lat="48.1046444" alt="580.0" hdg="343.5" spe="3.883207321166992" accuracy="3.0" type="begin" />
+		<wifiap bssid="001d19d43fd8" md5essid="83c8a5f5e8c79d6cca1ad0368217af82" ssid="wlan-d43f02" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-89" ntiu="2412"/>
+		<wifiap bssid="0896d776f751" md5essid="5310e1a97dd68d88ffec67d5b6f476cf" ssid="tyson2008" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-89" ntiu="2457"/>
+		<wifiap bssid="84948c190218" md5essid="e7b280bbb1e076ad12985d79cba42767" ssid="kabel+" capa="[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]" ss="-90" ntiu="2437"/>
+		<wifiap bssid="001f3f19013f" md5essid="e290d9252edb3713cf8528d6f8c2b72" ssid="vronline" capa="[WEP][ESS]" ss="-91" ntiu="2462"/>
+		<wifiap bssid="74da3809ce38" md5essid="3c79c0dd77a1e911f432382581a43a2b" ssid="repeater" capa="[WPA-PSK-TKIP][ESS]" ss="-86" ntiu="2462"/>
+		<wifiap bssid="bc0543148330" md5essid="d9707081931adfb47ba07f971220e4e1" ssid="fritz!box wlan 3270" capa="[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]" ss="-90" ntiu="2412"/>
+	<gps time="20141123174919" lng="11.5825665" lat="48.1046444" alt="580.0" hdg="343.5" spe="3.883207321166992" accuracy="3.0" type="end" />
+</scan>
+</logfile>
